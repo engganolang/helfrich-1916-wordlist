@@ -77,7 +77,7 @@ helfrich_wl1 <- helfrich_wl %>%
          across(matches("(form_common|variant_common|crossref_form_common)"), ~str_replace_all(., "(ĕ|ě)", "ė")),
          across(matches("(form_common|variant_common|crossref_form_common)"), ~str_replace_all(., "(è)", "e")),
          across(matches("(form_common|variant_common|crossref_form_common)"), ~str_replace_all(., "(á)", "a")),
-         across(matches("(form_common|variant_common|crossref_form_common)"), ~str_replace_all(., "(ó)", "o")),
+         across(matches("(form_common|variant_common|crossref_form_common)"), ~str_replace_all(., "(ó)", "o"))
          ) %>%
   mutate(form_common_uncontr = form,
          variant_common_uncontr = variant,
@@ -89,9 +89,17 @@ helfrich_wl1 <- helfrich_wl %>%
          across(matches("_uncontr"), ~str_replace_all(., "\\&", "ñ")),
          across(matches("_uncontr"), ~str_replace_all(., "\\@", "j")),
          across(matches("_uncontr"), ~str_replace_all(., "\\§", "c")),
-         across(matches("_uncontr"), ~str_replace_all(., "(oe|oè)", "u"))
+         across(matches("_uncontr"), ~str_replace_all(., "(ie|iè)", "i")),
+         across(matches("_uncontr"), ~str_replace_all(., "(oe|oè)", "u")),
+         across(matches("_uncontr"), ~str_replace_all(., "(ĕ|ě)", "ė")),
+         across(matches("_uncontr"), ~str_replace_all(., "(è)", "e")),
+         across(matches("_uncontr"), ~str_replace_all(., "(á)", "a")),
+         across(matches("_uncontr"), ~str_replace_all(., "(ó)", "o"))
   ) %>% 
   select(ID, page, entry, form, form_common, form_common_uncontr, variant, variant_common, variant_common_uncontr, dutch, english, crossref_form, crossref_form_common, crossref_form_common_uncontr, everything())
 
 helfrich_wl1
 
+helfrich_wl1 |> 
+  select(1:6, dutch, english) |> 
+  slice_sample(n = 10)
