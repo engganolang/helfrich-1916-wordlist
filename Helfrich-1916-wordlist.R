@@ -34,7 +34,10 @@ helfrich_wl <- helfrich_wl |>
   mutate(crossref_non_tokenised = str_replace_all(crossref_tokenised, "((?<=[^;]) |(?<=[^,]) )", ""),
          crossref_non_tokenised = str_replace_all(crossref_non_tokenised, "\\#", " ")) |> 
   select(ID, page, entry, dutch, english, form, form_non_tokenised, form_tokenised, variant, variant_non_tokenised, variant_tokenised, crossref_form, crossref_non_tokenised, crossref_tokenised, everything()) |> 
-  mutate(english = str_replace_all(english, '"\\b', '“'), english = str_replace_all(english, '\\b"', '”'))
+  mutate(english = str_replace_all(english, '"\\b', '“'), 
+         english = str_replace_all(english, '\\b"', '”'),
+         comment = str_replace_all(comment, '"\\b', '“'), 
+         comment = str_replace_all(comment, '\\b"', '”'))
 
 
 helfrich_wl |> write_tsv("data/helfrich1916.tsv", na = "")
