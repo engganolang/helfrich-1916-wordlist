@@ -1,0 +1,63 @@
+Left	Grapheme	Right	Class	Replacement	Frequency
+	oeoe			u ' u	3
+(ai)	h			x	0
+(?<!a)i	h			x	0
+	nj			ñ	3
+	tj			c	1
+	dj			j	11
+[aiueo]	ä			' a	41
+[aiueo]\(	ä			' a	0
+[aiueo]\)	ä			' a	0
+[aiueo]	ö			' o	10
+[aiueo]\(	ö			' o	2
+[aiueo]\)	ö			' o	0
+[^aiueo()]	ö			u̇	17
+[^aiueo]\(	ö			u̇	0
+[^aiueo]\)	ö			u̇	0
+	ää			a ' a	0
+	qä			' a	4
+	\(q\)ä			( ' ) a	0
+	ie			i	345
+	ié			i	0
+	iè			i	1
+	oe			u	253
+	oè			u	6
+	ĕä			ė ' a	1
+	öä			o ' a	0
+	ïï			i ' i	0
+	öö			o ' o	0
+	ä\(ä\)			a ( ' a)	0
+	 			 	149
+	\(			(	221
+	\)			)	221
+	\,			,	2
+	\:			:	9
+	\;			;	64
+	\?			?	2
+	a			a	684
+	á			a	0
+	à			a	1
+	ä			ʔ a	1
+	b			b	66
+	d			d	61
+	e			e	2
+	é			e	0
+	è			E	402
+	ĕ			ė	165
+	ě			ė	0
+	f			f	222
+	g			g	0
+	h			h	203
+	i			i	7
+	j			j	86
+	k			k	351
+	l			l	67
+	m			m	45
+	n			n	124
+	o			o	291
+	p			p	79
+	q			'	121
+	r			r	106
+	t			t	35
+	u			u	3
+	w			w	76

@@ -35,8 +35,8 @@ helfrich_wl <- readr::read_rds("helfrich_wl.rds") |>
 
 
 # transliterate ====
-read_tsv("https://raw.githubusercontent.com/engganolang/enolex/main/ortho/_12-helfrich1916_profile-skeleton-ipa.tsv") |> 
-  write_tsv("ortho/_00-ortho-ipa.tsv", na = "")
+# read_tsv("https://raw.githubusercontent.com/engganolang/enolex/main/ortho/_12-helfrich1916_profile-skeleton-ipa.tsv") |> 
+#   write_tsv("ortho/_00-ortho-ipa.tsv", na = "") # save the IPA profile
 
 ## form ====
 h1916 <- qlcData::tokenize(helfrich_wl$form, 
@@ -48,21 +48,28 @@ h1916 <- qlcData::tokenize(helfrich_wl$form,
                            normalize = "NFC", 
                            sep.replace = "#",
                            regex = TRUE)
-# h1916_form_ipa_tokenised <- qlcData::tokenize(helfrich_wl$form, 
-#                                               profile = "ortho/_00-ortho-ipa.tsv", 
-#                                               file.out = "ortho/_04-h1916-form-ipa",
-#                                               method = "global",
-#                                               transliterate = "Phoneme", 
-#                                               ordering = NULL, # cf. Moran & Cysouw (2018: 112-114)
-#                                               normalize = "NFC", 
-#                                               sep.replace = "#",
-#                                               regex = TRUE)
 h1916_form_common_tokenised <- h1916$strings$transliterated
+h1916$missing
+
+### form IPA ====
+h1916_form_ipa_tokenised <- qlcData::tokenize(helfrich_wl$form,
+                                              profile = "ortho/_00-ortho-ipa.tsv",
+                                              file.out = "ortho/_04-h1916-form-ipa",
+                                              method = "global",
+                                              transliterate = "Phoneme",
+                                              ordering = NULL, # cf. Moran & Cysouw (2018: 112-114)
+                                              normalize = "NFC",
+                                              sep.replace = "#",
+                                              regex = TRUE)
+h1916_form_ipa_tokenised[["missing"]]
+h1916_form_ipa_tokenised[["errors"]]
+
+h1916_form_ipa_tokenised <- h1916_form_ipa_tokenised$strings$transliterated
 
 ## variant ====
 h1916_variant <- qlcData::tokenize(helfrich_wl$variant, 
                                    profile = "ortho/_01-h1916-form_profile-skeleton.tsv", 
-                                   file.out = "ortho/_04-h1916-form",
+                                   file.out = "ortho/_04-h1916-variant",
                                    method = "global",
                                    transliterate = "Replacement", 
                                    ordering = NULL, # cf. Moran & Cysouw (2018: 112-114)
@@ -72,10 +79,25 @@ h1916_variant <- qlcData::tokenize(helfrich_wl$variant,
 
 h1916_variant_common_tokenised <- h1916_variant$strings$transliterated
 
+### variant IPA ====
+h1916_variant_ipa_tokenised <- qlcData::tokenize(helfrich_wl$variant,
+                                              profile = "ortho/_00-ortho-ipa.tsv",
+                                              file.out = "ortho/_04-h1916-variant-ipa",
+                                              method = "global",
+                                              transliterate = "Phoneme",
+                                              ordering = NULL, # cf. Moran & Cysouw (2018: 112-114)
+                                              normalize = "NFC",
+                                              sep.replace = "#",
+                                              regex = TRUE)
+h1916_variant_ipa_tokenised[["missing"]]
+h1916_variant_ipa_tokenised[["errors"]]
+
+h1916_variant_ipa_tokenised <- h1916_variant_ipa_tokenised$strings$transliterated
+
 ## cross-ref ====
 h1916_xref <- qlcData::tokenize(helfrich_wl$crossref_form, 
                                 profile = "ortho/_01-h1916-form_profile-skeleton.tsv", 
-                                file.out = "ortho/_04-h1916-form",
+                                file.out = "ortho/_04-h1916-xref",
                                 method = "global",
                                 transliterate = "Replacement", 
                                 ordering = NULL, # cf. Moran & Cysouw (2018: 112-114)
@@ -85,4 +107,17 @@ h1916_xref <- qlcData::tokenize(helfrich_wl$crossref_form,
 
 h1916_xref_common_tokenised <- h1916_xref$strings$transliterated
 
+### cross-ref IPA ====
+h1916_xref_ipa_tokenised <- qlcData::tokenize(helfrich_wl$crossref_form,
+                                                 profile = "ortho/_00-ortho-ipa.tsv",
+                                                 file.out = "ortho/_04-h1916-xref-ipa",
+                                                 method = "global",
+                                                 transliterate = "Phoneme",
+                                                 ordering = NULL, # cf. Moran & Cysouw (2018: 112-114)
+                                                 normalize = "NFC",
+                                                 sep.replace = "#",
+                                                 regex = TRUE)
+h1916_xref_ipa_tokenised[["missing"]]
+h1916_xref_ipa_tokenised[["errors"]]
 
+h1916_xref_ipa_tokenised <- h1916_xref_ipa_tokenised$strings$transliterated

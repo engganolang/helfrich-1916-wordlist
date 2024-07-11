@@ -33,14 +33,31 @@ helfrich_wl$crossref_tokenised <- h1916_xref_common_tokenised
 helfrich_wl <- helfrich_wl |> 
   mutate(crossref_non_tokenised = str_replace_all(crossref_tokenised, "((?<=[^;]) |(?<=[^,]) )", ""),
          crossref_non_tokenised = str_replace_all(crossref_non_tokenised, "\\#", " ")) |> 
-  select(ID, page, entry, dutch, english, form, form_non_tokenised, form_tokenised, variant, variant_non_tokenised, variant_tokenised, crossref_form, crossref_non_tokenised, crossref_tokenised, everything()) |> 
+  select(ID, page, entry, dutch, english, form, form_common_transcription = form_non_tokenised, form_common_segments = form_tokenised, variant, variant_common_transcription = variant_non_tokenised, variant_common_segments = variant_tokenised, crossref_form, crossref_common_transcription = crossref_non_tokenised, crossref_common_segments = crossref_tokenised, everything()) |> 
   mutate(english = str_replace_all(english, '"\\b', '“'), 
          english = str_replace_all(english, '\\b"', '”'),
          comment = str_replace_all(comment, '"\\b', '“'), 
          comment = str_replace_all(comment, '\\b"', '”'))
 
+helfrich_wl$form_ipa_segments <- h1916_form_ipa_tokenised
+helfrich_wl$variant_ipa_segments <- h1916_variant_ipa_tokenised
+helfrich_wl$crossref_ipa_segments <- h1916_xref_ipa_tokenised
 
-helfrich_wl |> write_tsv("data/helfrich1916.tsv", na = "")
+helfrich_wl <- helfrich_wl |> 
+  mutate(variant_ID = if_else(!is.na(variant), row_number(variant), NA))
+
+# save the form table
+helfrich_wl |> 
+  select(-matches("(variant$|variant_com|variant_ipa)")) |> 
+  select(ID, page, entry, dutch, english, form, variant_ID, form_common_transcription, form_common_segments, form_ipa_segments, matches("crossref"), everything()) |> 
+  write_tsv("data/helfrich1916.tsv", na = "")
+
+# save the variant table
+helfrich_wl |> 
+  select(FORM_ID = ID, matches("variant")) |> 
+  filter(!is.na(variant)) |> 
+  select(ID = variant_ID, everything()) |> 
+  write_tsv("data/helfrich1916_variant.tsv", na = "")
 
 
 # all characters in Helfrich's (1916)

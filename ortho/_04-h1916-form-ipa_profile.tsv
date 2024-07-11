@@ -1,51 +1,60 @@
 Left	Grapheme	Right	Class	Replacement	Phoneme	Frequency
 	\-			-	-	0
-	oeoe			u'u	uʔu	19
+	ie			i	i	931
+	oeoe			u ' u	u ʔ u	19
 	nj			ñ	ɲ	8
 	tj			c	t͡ʃ	12
 	dj			j	d͡ʒ	39
-	ää			a'a	aʔa	3
-	qä			'a	ʔa	19
-	\(q\)ä			(') a	(ʔ) a	1
+[aiueo]	ä			' a	ʔ a	94
+[aiueo]\(	ä			' a	ʔ a	5
+[aiueo]\)	ä			' a	ʔ a	1
+[aiueo]	ö			' o	ʔ o	59
+[aiueo]\(	ö			' o	ʔ o	6
+[aiueo]\)	ö			' o	ʔ o	0
+[^aiueo()]	ö			u̇	ɨ	46
+[^aiueo]\(	ö			u̇	ɨ	0
+[^aiueo]\)	ö			u̇	ɨ	2
+	ää			a ' a	a ʔ a	1
+	qä			' a	ʔ a	19
+	\(q\)ä			( ' ) a	( ʔ ) a	1
 	ié			i	i	0
 	iè			i	i	1
 	oe			u	u	584
 	oè			u	u	8
-	öä			o'a	oʔa	1
-	ïï			i'i	iʔa	0
-	öö			o'o	oʔo	2
-	ä\(ä\)			a ('a)	a (ʔa)	1
+	öä			o ' a	o ʔ a	0
+	ïï			i ' i	i ʔ a	0
+	öö			o ' o	o ʔ o	0
+	ä\(ä\)			a ( ' a)	a ( ʔ a)	0
 (ie)	h			x	ç	51
 (ai)	h			x	ç	0
 (?<!a)i	h			x	ç	0
-[aiueo]	ä			'a	ʔa	91
-[aiueo]\(	ä			'a	ʔa	5
-[aiueo]\)	ä			'a	ʔa	1
-[aiueo]	ö			'o	ʔo	58
-[aiueo]\(	ö			'o	ʔo	6
-[aiueo]\)	ö			'o	ʔo	0
-[^aiueo()]	ö			u̇	ɨ	42
-[^aiueo]\(	ö			u̇	ɨ	0
-[^aiueo]\)	ö			u̇	ɨ	2
-	\(			(	(	466
-	\)			)	)	466
+	\(			(	(	467
+	\)			)	)	467
 	\/			/	/	0
 	;			;	;	16
+	,			,	,	1
 	\?			?	?	2
 	\[			[	[	0
 	\]			]	]	0
+	\:			:	:	11
+	 			 	 	124
 	a			a	a	1871
+	ä			' a	ʔ a	4
+	à			a	a	0
+	á			a	a	1
 	ā			ā	aː	0
 	ã			ã	ã	0
 	b			b	b	210
 	d			d	d	306
-	e			e	e	933
+	e			e	e	2
+	é			e	e	1
 	è			E	ɛ	990
 	ĕ			ė	ə	44
 	ě			ė	ə	0
 	f			f	f	5
+	g			g	g	7
 	h			h	h	486
-	i			i	i	935
+	i			i	i	4
 	ĩ			ĩ	ĩ	0
 	j			y	j	242
 	k			k	k	1045
