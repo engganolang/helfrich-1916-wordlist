@@ -1,10 +1,10 @@
 originals	tokenized	transliterated
-aääoe	a ä ä oe	a ' a ʔ a u
+aääoe	a ä ä oe	a ' a ' a u
 aäpoe(w)a(q)	a ä p oe ( w ) a ( q )	a ' a p u ( w ) a ( ' )
 aba	a b a	a b a
 abaiekahaieq	a b a ie k a h a ie q	a b a i k a h a i '
 abakoe(w)a(q)	a b a k oe ( w ) a ( q )	a b a k u ( w ) a ( ' )
-abaoe(w)aie(j)onie(j)a	a b a oe ( w ) a ie ( j ) o n ie ( j ) a	a b a u ( w ) a i ( j ) o n i ( j ) a
+abaoe(w)aie(j)onie(j)a	a b a oe ( w ) a ie ( j ) o n ie ( j ) a	a b a u ( w ) a i ( y ) o n i ( y ) a
 abapoe(w)apaoe(w)a	a b a p oe ( w ) a p a oe ( w ) a	a b a p u ( w ) a p a u ( w ) a
 abèha	a b è h a	a b E h a
 abèo	a b è o	a b E o
@@ -26,10 +26,10 @@ ahèmoie	a h è m o ie	a h E m o i
 ahiebie	a h ie b ie	a h i b i
 ahiemahona	a h ie m a h o n a	a h i m a h o n a
 ahopaq	a h o p a q	a h o p a '
-aieiejo	a ie ie j o	a i i j o
+aieiejo	a ie ie j o	a i i y o
 aiekoie	a ie k o ie	a i k o i
-aiekoie(j)aq	a ie k o ie ( j ) a q	a i k o i ( j ) a '
-ajoqoie	a j o q o ie	a j o ' o i
+aiekoie(j)aq	a ie k o ie ( j ) a q	a i k o i ( y ) a '
+ajoqoie	a j o q o ie	a y o ' o i
 akieäkiena	a k ie ä k ie n a	a k i ' a k i n a
 akiedaq	a k ie d a q	a k i d a '
 akiedaqöö	a k ie d a q ö ö	a k i d a ' u̇ u̇
@@ -39,7 +39,7 @@ akienaie	a k ie n a ie	a k i n a i
 akohaie; maäkohaie	a k o h a ie ; # m a ä k o h a ie	a k o h a i ; # m a ' a k o h a i
 akoloe	a k o l oe	a k o l u
 ama	a m a	a m a
-amahèaqja	a m a h è a q j a	a m a h E a ' j a
+amahèaqja	a m a h è a q j a	a m a h E a ' y a
 amanaie	a m a n a ie	a m a n a i
 amĕnaq	a m ĕ n a q	a m ė n a '
 amĕno	a m ĕ n o	a m ė n o
@@ -56,14 +56,14 @@ anoqö	a n o q ö	a n o ' u̇
 anokè	a n o k è	a n o k E
 anokie	a n o k ie	a n o k i
 anoöho	a n o ö h o	a n o ' o h o
-anoqè(j)a	a n o q è ( j ) a	a n o ' E ( j ) a
+anoqè(j)a	a n o q è ( j ) a	a n o ' E ( y ) a
 aoe	a oe	a u
 aoedoe	a oe d oe	a u d u
 a(o)pa	a ( o ) p a	a ( o ) p a
 a(o)pahiea(o)pa	a ( o ) p a h ie a ( o ) p a	a ( o ) p a h i a ( o ) p a
 apieaie	a p ie a ie	a p i a i
-a(p)ie(j)aka	a ( p ) ie ( j ) a k a	a ( p ) i ( j ) a k a
-kie(a)pie(j)aka	k ie ( a ) p ie ( j ) a k a	k i ( a ) p i ( j ) a k a
+a(p)ie(j)aka	a ( p ) ie ( j ) a k a	a ( p ) i ( y ) a k a
+kie(a)pie(j)aka	k ie ( a ) p ie ( j ) a k a	k i ( a ) p i ( y ) a k a
 apienie	a p ie n ie	a p i n i
 apoie	a p o ie	a p o i
 apoie	a p o ie	a p o i
@@ -80,21 +80,21 @@ bahabaieba	b a h a b a ie b a	b a h a b a i b a
 bahora	b a h o r a	b a h o r a
 baoe(w)adie	b a oe ( w ) a d ie	b a u ( w ) a d i
 barieboerieboe	b a r ie b oe r ie b oe	b a r i b u r i b u
-bĕlie(j)oeng	b ĕ l ie ( j ) oe n g	b ė l i ( j ) u n g
+bĕlie(j)oeng	b ĕ l ie ( j ) oe n g	b ė l i ( y ) u n g
 bĕnang	b ĕ n a n g	b ė n a n g
 biedie	b ie d ie	b i d i
 boe	b oe	b u
 boe	b oe	b u
 boeboeqie	b oe b oe q ie	b u b u ' i
-boedahiejaq	b oe d a h ie j a q	b u d a h i j a '
+boedahiejaq	b oe d a h ie j a q	b u d a h i y a '
 boeodo	b oe o d o	b u o d o
 boeodo	b oe o d o	b u o d o
 dadoe(oe)	d a d oe ( oe )	d a d u ( u )
-daiekahadie(j)a	d a ie k a h a d ie ( j ) a	d a i k a h a d i ( j ) a
-dajo	d a j o	d a j o
+daiekahadie(j)a	d a ie k a h a d ie ( j ) a	d a i k a h a d i ( y ) a
+dajo	d a j o	d a y o
 daraqie	d a r a q ie	d a r a ' i
 dètar	d è t a r	d E t a r
-die(j)a	d ie ( j ) a	d i ( j ) a
+die(j)a	d ie ( j ) a	d i ( y ) a
 dja(ä)oe(w)a	dj a ( ä ) oe ( w ) a	j a ( ' a ) u ( w ) a
 dodo	d o d o	d o d o
 dödöhöka	d ö d ö h ö k a	d u̇ d u̇ h u̇ k a
@@ -112,11 +112,11 @@ èaäoe	è a ä oe	E a ' a u
 èaäq	è a ä q	E a ' a '
 èabaä	è a b a ä	E a b a ' a
 èabaäo	è a b a ä o	E a b a ' a o
-èabadie(j)o	è a b a d ie ( j ) o	E a b a d i ( j ) o
+èabadie(j)o	è a b a d ie ( j ) o	E a b a d i ( y ) o
 èabaoekiedaie	è a b a oe k ie d a ie	E a b a u k i d a i
 èabaoe(w)a	è a b a oe ( w ) a	E a b a u ( w ) a
 èabo	è a b o	E a b o
-èaboebaja	è a b oe b a j a	E a b u b a j a
+èaboebaja	è a b oe b a j a	E a b u b a y a
 èadahohoe	è a d a h o h oe	E a d a h o h u
 èadieho	è a d ie h o	E a d i h o
 èadoe(w)a	è a d oe ( w ) a	E a d u ( w ) a
@@ -127,26 +127,26 @@ èahaboe(w)a	è a h a b oe ( w ) a	E a h a b u ( w ) a
 èahaie	è a h a ie	E a h a i
 èahaienjoqä	è a h a ie nj o qä	E a h a i ñ o ' a
 èahaoedohoie	è a h a oe d o h o ie	E a h a u d o h o i
-èahèdie(j)a	è a h è d ie ( j ) a	E a h E d i ( j ) a
+èahèdie(j)a	è a h è d ie ( j ) a	E a h E d i ( y ) a
 èahoepoq	è a h oe p o q	E a h u p o '
 èahopè	è a h o p è	E a h o p E
 èaie	è a ie	E a i
-èajo	è a j o	E a j o
+èajo	è a j o	E a y o
 èakakoq	è a k a k o q	E a k a k o '
 èanaöa	è a n a ö a	E a n a ' o a
 èaoeno	è a oe n o	E a u n o
 èawieka	è a w ie k a	E a w i k a
 èboeboe	è b oe b oe	E b u b u
-èhaie(j)oeĕq	è h a ie ( j ) oe ĕ q	E h a i ( j ) u ė '
-èhèjog	è h è j o g	E h E j o g
-è(j)anoqäq	è ( j ) a n o qä q	E ( j ) a n o ' a '
+èhaie(j)oeĕq	è h a ie ( j ) oe ĕ q	E h a i ( y ) u ė '
+èhèjog	è h è j o g	E h E y o g
+è(j)anoqäq	è ( j ) a n o qä q	E ( y ) a n o ' a '
 èkabaroekoe	è k a b a r oe k oe	E k a b a r u k u
-èkahaie(j)abie	è k a h a ie ( j ) a b ie	E k a h a i ( j ) a b i
+èkahaie(j)abie	è k a h a ie ( j ) a b ie	E k a h a i ( y ) a b i
 èkahoro	è k a h o r o	E k a h o r o
 èkaiedodo	è k a ie d o d o	E k a i d o d o
-èkapaqie(j)o	è k a p a q ie ( j ) o	E k a p a ' i ( j ) o
+èkapaqie(j)o	è k a p a q ie ( j ) o	E k a p a ' i ( y ) o
 èkaqoe(w)aie	è k a q oe ( w ) a ie	E k a ' u ( w ) a i
-èkieoedahjo	è k ie oe d a h j o	E k i u d a h j o
+èkieoedahjo	è k ie oe d a h j o	E k i u d a h y o
 èkieoedie	è k ie oe d ie	E k i u d i
 èkietaäpoe(w)aq	è k ie t a ä p oe ( w ) a q	E k i t a ' a p u ( w ) a '
 èkoe(w)èq	è k oe ( w ) è q	E k u ( w ) E '
@@ -156,7 +156,7 @@ èokoödoq	è o k o ö d o q	E o k o ' o d o '
 èpaoe(w)oko	è p a oe ( w ) o k o	E p a u ( w ) o k o
 èkanawèq	è k a n a w è q	E k a n a w E '
 èkèma	è k è m a	E k E m a
-èakadie(j)o	è a k a d ie ( j ) o	E a k a d i ( j ) o
+èakadie(j)o	è a k a d ie ( j ) o	E a k a d i ( y ) o
 èakaka	è a k a k a	E a k a k a
 èakakaie	è a k a k a ie	E a k a k a i
 èakano	è a k a n o	E a k a n o
@@ -165,7 +165,7 @@ èakieakie	è a k ie a k ie	E a k i a k i
 èakieie	è a k ie ie	E a k i i
 èakomaq	è a k o m a q	E a k o m a '
 èamaha	è a m a h a	E a m a h a
-èamajoq	è a m a j o q	E a m a j o '
+èamajoq	è a m a j o q	E a m a y o '
 èamaniekie	è a m a n ie k ie	E a m a n i k i
 èamè	è a m è	E a m E
 èamieamie	è a m ie a m ie	E a m i a m i
@@ -202,7 +202,7 @@ èaraboeka	è a r a b oe k a	E a r a b u k a
 èaraqko(w)a	è a r a q k o ( w ) a	E a r a ' k o ( w ) a
 èaroekèrè	è a r oe k è r è	E a r u k E r E
 èaroe(w)a	è a r oe ( w ) a	E a r u ( w ) a
-èaroja	è a r o j a	E a r o j a
+èaroja	è a r o j a	E a r o y a
 èaropa	è a r o p a	E a r o p a
 èaroqä	è a r o qä	E a r o ' a
 èatjara	è a tj a r a	E a c a r a
@@ -222,7 +222,7 @@ èbaoe	è b a oe	E b a u
 èbèlo(w)a	è b è l o ( w ) a	E b E l o ( w ) a
 èbèo	è b è o	E b E o
 èbiehoe	è b ie h oe	E b i h u
-èbie(j)oe	è b ie ( j ) oe	E b i ( j ) u
+èbie(j)oe	è b ie ( j ) oe	E b i ( y ) u
 èbo	è b o	E b o
 èboeèparaqwo	è b oe è p a r a q w o	E b u E p a r a ' w o
 èboe(w)è	è b oe ( w ) è	E b u ( w ) E
@@ -233,32 +233,32 @@ èdaboeho	è d a b oe h o	E d a b u h o
 èadoho	è a d o h o	E a d o h o
 èaroiepoko	è a r o ie p o k o	E a r o i p o k o
 èbaka	è b a k a	E b a k a
-èie(j)oeh	è ie ( j ) oe h	E i ( j ) u h
+èie(j)oeh	è ie ( j ) oe h	E i ( y ) u h
 èkarèpè(h)	è k a r è p è ( h )	E k a r E p E ( h )
 èkiedjaie	è k ie dj a ie	E k i j a i
 èoedoe	è oe d oe	E u d u
 èoekaq	è oe k a q	E u k a '
 èpaö	è p a ö	E p a ' o
 èdado; èdadoèoedoe	è d a d o ; # è d a d oè oe d oe	E d a d o ; # E d a d u u d u
-èdahajo	è d a h a j o	E d a h a j o
+èdahajo	è d a h a j o	E d a h a y o
 èdahèboeäo	è d a h è b oe ä o	E d a h E b u ' a o
 èdakohaq	è d a k o h a q	E d a k o h a '
 èdèabo	è d è a b o	E d E a b o
 èdiehao	è d ie h a o	E d i h a o
-èdiehie(j)oq	è d ie h ie ( j ) o q	E d i h i ( j ) o '
+èdiehie(j)oq	è d ie h ie ( j ) o q	E d i h i ( y ) o '
 èdieho	è d ie h o	E d i h o
-èdie(j)a	è d ie ( j ) a	E d i ( j ) a
-èdie(j)o	è d ie ( j ) o	E d i ( j ) o
-èdieie(j)o	è d ie ie ( j ) o	E d i i ( j ) o
-èdie(j)oe(w)aka	è d ie ( j ) oe ( w ) a k a	E d i ( j ) u ( w ) a k a
-èdie(j)oewaoekèdjajoe	è d ie ( j ) oe w a oe k è dj a j oe	E d i ( j ) u w a u k E j a j u
+èdie(j)a	è d ie ( j ) a	E d i ( y ) a
+èdie(j)o	è d ie ( j ) o	E d i ( y ) o
+èdieie(j)o	è d ie ie ( j ) o	E d i i ( y ) o
+èdie(j)oe(w)aka	è d ie ( j ) oe ( w ) a k a	E d i ( y ) u ( w ) a k a
+èdie(j)oewaoekèdjajoe	è d ie ( j ) oe w a oe k è dj a j oe	E d i ( y ) u w a u k E j a y u
 èdiekieho	è d ie k ie h o	E d i k i h o
 èdiekoeroe	è d ie k oe r oe	E d i k u r u
-èdieoboe; èdieoboedie(j)ĕ	è d ie o b oe ; # è d ie o b oe d ie ( j ) ĕ	E d i o b u ; # E d i o b u d i ( j ) ė
+èdieoboe; èdieoboedie(j)ĕ	è d ie o b oe ; # è d ie o b oe d ie ( j ) ĕ	E d i o b u ; # E d i o b u d i ( y ) ė
 èdoboe	è d o b oe	E d o b u
 èdoboe kanapoe(w)a	è d o b oe # k a n a p oe ( w ) a	E d o b u # k a n a p u ( w ) a
 èdodie	è d o d ie	E d o d i
-èdoehoekie(j)aq	è d oe h oe k ie ( j ) a q	E d u h u k i ( j ) a '
+èdoehoekie(j)aq	è d oe h oe k ie ( j ) a q	E d u h u k i ( y ) a '
 èdohaie	è d o h a ie	E d o h a i
 èdohoie	è d o h o ie	E d o h o i
 kiedohoie	k ie d o h o ie	k i d o h o i
@@ -275,8 +275,8 @@ èèèno	è è è n o	E E E n o
 èèhè	è è h è	E E h E
 èèho	è è h o	E E h o
 èèhöa	è è h ö a	E E h u̇ a
-èè(j)aq	è è ( j ) a q	E E ( j ) a '
-èèkadjie(j)a	è è k a dj ie ( j ) a	E E k a j i ( j ) a
+èè(j)aq	è è ( j ) a q	E E ( y ) a '
+èèkadjie(j)a	è è k a dj ie ( j ) a	E E k a j i ( y ) a
 èèko	è è k o	E E k o
 èèlo	è è l o	E E l o
 èèmaha	è è m a h a	E E m a h a
@@ -289,7 +289,7 @@ èèodieoekoewo	è è o d ie oe k oe w o	E E o d i u k u w o
 èèoq	è è o q	E E o '
 èèpè	è è p è	E E p E
 èèpo	è è p o	E E p o
-èhabarie(j)a	è h a b a r ie ( j ) a	E h a b a r i ( j ) a
+èhabarie(j)a	è h a b a r ie ( j ) a	E h a b a r i ( y ) a
 èhado(q)	è h a d o ( q )	E h a d o ( ' )
 èhahadiediekie	è h a h a d ie d ie k ie	E h a h a d i d i k i
 èhaiepoe	è h a ie p oe	E h a i p u
@@ -302,8 +302,8 @@ èharobèao	è h a r o b è a o	E h a r o b E a o
 èharoeq	è h a r oe q	E h a r u '
 èhèapo	è h è a p o	E h E a p o
 èhèboe	è h è b oe	E h E b u
-èhèie(j)o	è h è ie ( j ) o	E h E i ( j ) o
-èhèja	è h è j a	E h E j a
+èhèie(j)o	è h è ie ( j ) o	E h E i ( y ) o
+èhèja	è h è j a	E h E y a
 èhèkoe(q)	è h è k oe ( q )	E h E k u ( ' )
 mahèkoe(q)	m a h è k oe ( q )	m a h E k u ( ' )
 èhèkoe(q)wa	è h è k oe ( q ) w a	E h E k u ( ' ) w a
@@ -311,9 +311,9 @@ èhèla	è h è l a	E h E l a
 kèo hèla	k è o # h è l a	k E o # h E l a
 èhèoe(w)a	è h è oe ( w ) a	E h E u ( w ) a
 èhèoe(w)è	è h è oe ( w ) è	E h E u ( w ) E
-èhè(q)ie(j)oe	è h è ( q ) ie ( j ) oe	E h E ( ' ) i ( j ) u
-èhèrie(j)a	è h è r ie ( j ) a	E h E r i ( j ) a
-èhie(j)o	è h ie ( j ) o	E h i ( j ) o
+èhè(q)ie(j)oe	è h è ( q ) ie ( j ) oe	E h E ( ' ) i ( y ) u
+èhèrie(j)a	è h è r ie ( j ) a	E h E r i ( y ) a
+èhie(j)o	è h ie ( j ) o	E h i ( y ) o
 èhoa	è h o a	E h o a
 èhöadie	è h ö a d ie	E h u̇ a d i
 mahöadie	m a h ö a d ie	m a h u̇ a d i
@@ -338,34 +338,34 @@ aiedjie	a ie dj ie	a i j i
 èieha	è ie h a	E i h a
 èieie	è ie ie	E i i
 èieieoedoe	è ie ie oe d oe	E i i u d u
-èie(j)aoe	è ie ( j ) a oe	E i ( j ) a u
-èie(j)ĕ	è ie ( j ) ĕ	E i ( j ) ė
-èie(j)oba	è ie ( j ) o b a	E i ( j ) o b a
-èie(j)oedopo	è ie ( j ) oe d o p o	E i ( j ) u d o p o
-èie(j)oöboöie	è ie ( j ) o ö b o ö ie	E i ( j ) o ' o b o ' o i
+èie(j)aoe	è ie ( j ) a oe	E i ( y ) a u
+èie(j)ĕ	è ie ( j ) ĕ	E i ( y ) ė
+èie(j)oba	è ie ( j ) o b a	E i ( y ) o b a
+èie(j)oedopo	è ie ( j ) oe d o p o	E i ( y ) u d o p o
+èie(j)oöboöie	è ie ( j ) o ö b o ö ie	E i ( y ) o ' o b o ' o i
 èienoeqoe(q)	è ie n oe q oe ( q )	E i n u ' u ( ' )
 èienoeqoeie	è ie n oe q oe ie	E i n u ' u i
 èiepo	è ie p o	E i p o
 èietjo	è ie tj o	E i c o
-è(j)adamaie	è ( j ) a d a m a ie	E ( j ) a d a m a i
-è(j)aha	è ( j ) a h a	E ( j ) a h a
-è(j)ahakoqie	è ( j ) a h a k o q ie	E ( j ) a h a k o ' i
-è(j)ahaoeobie	è ( j ) a h a oe o b ie	E ( j ) a h a u o b i
-è(j)ahèaqaq	è ( j ) a h è a q a q	E ( j ) a h E a ' a '
-è(j)akoqä	è ( j ) a k o qä	E ( j ) a k o ' a
-è(j)akoro(w)a	è ( j ) a k o r o ( w ) a	E ( j ) a k o r o ( w ) a
-è(j)aniemaie	è ( j ) a n ie m a ie	E ( j ) a n i m a i
-è(j)aqètoka	è ( j ) a q è t o k a	E ( j ) a ' E t o k a
-è(j)araq	è ( j ) a r a q	E ( j ) a r a '
-è(j)araq noeha	è ( j ) a r a q # n oe h a	E ( j ) a r a ' # n u h a
-è(j)obie	è ( j ) o b ie	E ( j ) o b i
-ĕ(j)opoko	ĕ ( j ) o p o k o	ė ( j ) o p o k o
+è(j)adamaie	è ( j ) a d a m a ie	E ( y ) a d a m a i
+è(j)aha	è ( j ) a h a	E ( y ) a h a
+è(j)ahakoqie	è ( j ) a h a k o q ie	E ( y ) a h a k o ' i
+è(j)ahaoeobie	è ( j ) a h a oe o b ie	E ( y ) a h a u o b i
+è(j)ahèaqaq	è ( j ) a h è a q a q	E ( y ) a h E a ' a '
+è(j)akoqä	è ( j ) a k o qä	E ( y ) a k o ' a
+è(j)akoro(w)a	è ( j ) a k o r o ( w ) a	E ( y ) a k o r o ( w ) a
+è(j)aniemaie	è ( j ) a n ie m a ie	E ( y ) a n i m a i
+è(j)aqètoka	è ( j ) a q è t o k a	E ( y ) a ' E t o k a
+è(j)araq	è ( j ) a r a q	E ( y ) a r a '
+è(j)araq noeha	è ( j ) a r a q # n oe h a	E ( y ) a r a ' # n u h a
+è(j)obie	è ( j ) o b ie	E ( y ) o b i
+ĕ(j)opoko	ĕ ( j ) o p o k o	ė ( y ) o p o k o
 èkaä	è k a ä	E k a ' a
 èkabaiedoq	è k a b a ie d o q	E k a b a i d o '
 èkabaieka	è k a b a ie k a	E k a b a i k a
 èkabakè	è k a b a k è	E k a b a k E
 èkabakèka	è k a b a k è k a	E k a b a k E k a
-èkaboeäjo	è k a b oe ä j o	E k a b u ' a j o
+èkaboeäjo	è k a b oe ä j o	E k a b u ' a y o
 èkadaboeqä	è k a d a b oe qä	E k a d a b u ' a
 èkadaha(q)	è k a d a h a ( q )	E k a d a h a ( ' )
 èkadieodie	è k a d ie o d ie	E k a d i o d i
@@ -381,17 +381,17 @@ èkahaö	è k a h a ö	E k a h a ' o
 èkahaoe	è k a h a oe	E k a h a u
 èkahaoekoe	è k a h a oe k oe	E k a h a u k u
 èkahaoq	è k a h a o q	E k a h a o '
-èkahi(j)oe	è k a h i ( j ) oe	E k a h i ( j ) u
+èkahi(j)oe	è k a h i ( j ) oe	E k a h i ( y ) u
 èkahieno(a)	è k a h ie n o ( a )	E k a h i n o ( a )
 èkahoe(w)èqo	è k a h oe ( w ) è q o	E k a h u ( w ) E ' o
 èkaie	è k a ie	E k a i
 èkaieno(h)	è k a ie n o ( h )	E k a i n o ( h )
 èkaie(oe)dahoe(hoe)	è k a ie ( oe ) d a h oe ( h oe )	E k a i ( u ) d a h u ( h u )
-èkajoqpèdjie	è k a j o q p è dj ie	E k a j o ' p E j i
-èkakorèie(j)o	è k a k o r è ie ( j ) o	E k a k o r E i ( j ) o
-èkakorè(j)o	è k a k o r è ( j ) o	E k a k o r E ( j ) o
-èkamie(j)oe	è k a m ie ( j ) oe	E k a m i ( j ) u
-èkanaja	è k a n a j a	E k a n a j a
+èkajoqpèdjie	è k a j o q p è dj ie	E k a y o ' p E j i
+èkakorèie(j)o	è k a k o r è ie ( j ) o	E k a k o r E i ( y ) o
+èkakorè(j)o	è k a k o r è ( j ) o	E k a k o r E ( y ) o
+èkamie(j)oe	è k a m ie ( j ) oe	E k a m i ( y ) u
+èkanaja	è k a n a j a	E k a n a y a
 èkanjoq	è k a nj o q	E k a ñ o '
 èkanoa	è k a n o a	E k a n o a
 èkanoaie	è k a n o a ie	E k a n o a i
@@ -421,26 +421,26 @@ èkèponie	è k è p o n ie	E k E p o n i
 èkieakie	è k ie a k ie	E k i a k i
 èkieakoqä	è k ie a k o qä	E k i a k o ' a
 èkieapo	è k ie a p o	E k i a p o
-èkiedapè(j)a	è k ie d a p è ( j ) a	E k i d a p E ( j ) a
-èkiediebèie(j)oq	è k ie d ie b è ie ( j ) o q	E k i d i b E i ( j ) o '
+èkiedapè(j)a	è k ie d a p è ( j ) a	E k i d a p E ( y ) a
+èkiediebèie(j)oq	è k ie d ie b è ie ( j ) o q	E k i d i b E i ( y ) o '
 èkiedjaie	è k ie dj a ie	E k i j a i
 èkiedjè	è k ie dj è	E k i j E
 èkiedjiekiedjie	è k ie dj ie k ie dj ie	E k i j i k i j i
 èkieèèo	è k ie è è o	E k i E E o
 ékiehie	é k ie h ie	e k i h i
-èkiehie(j)oedo	è k ie h ie ( j ) oe d o	E k i h i ( j ) u d o
+èkiehie(j)oedo	è k ie h ie ( j ) oe d o	E k i h i ( y ) u d o
 èkieho	è k ie h o	E k i h o
 èkiehöa	è k ie h ö a	E k i h u̇ a
 èkiehoedo	è k ie h oe d o	E k i h u d o
 èkiehoedo	è k ie h oe d o	E k i h u d o
-èkiehohè(j)a	è k ie h o h è ( j ) a	E k i h o h E ( j ) a
-èieha kiehohè(j)a die(j)a	è ie h a # k ie h o h è ( j ) a # d ie ( j ) a	E i h a # k i h o h E ( j ) a # d i ( j ) a
+èkiehohè(j)a	è k ie h o h è ( j ) a	E k i h o h E ( y ) a
+èieha kiehohè(j)a die(j)a	è ie h a # k ie h o h è ( j ) a # d ie ( j ) a	E i h a # k i h o h E ( y ) a # d i ( y ) a
 èkieie	è k ie ie	E k i i
-èkieie(j)o	è k ie ie ( j ) o	E k i i ( j ) o
-èkieie(j)ahaq	è k ie ie ( j ) a h a q	E k i i ( j ) a h a '
-èkie(j)aö	è k ie ( j ) a ö	E k i ( j ) a ' o
-èkie(j)oe	è k ie ( j ) oe	E k i ( j ) u
-èkie(j)oeqie	è k ie ( j ) oe q ie	E k i ( j ) u ' i
+èkieie(j)o	è k ie ie ( j ) o	E k i i ( y ) o
+èkieie(j)ahaq	è k ie ie ( j ) a h a q	E k i i ( y ) a h a '
+èkie(j)aö	è k ie ( j ) a ö	E k i ( y ) a ' o
+èkie(j)oe	è k ie ( j ) oe	E k i ( y ) u
+èkie(j)oeqie	è k ie ( j ) oe q ie	E k i ( y ) u ' i
 èkieka	è k ie k a	E k i k a
 èkiekie	è k ie k ie	E k i k i
 èkiekohaq	è k ie k o h a q	E k i k o h a '
@@ -453,13 +453,13 @@ èkietjoh	è k ie tj o h	E k i c o h
 èkietohè	è k ie t o h è	E k i t o h E
 èkoanoe	è k o a n oe	E k o a n u
 èköaq	è k ö a q	E k u̇ a '
-èkodie(j)o	è k o d ie ( j ) o	E k o d i ( j ) o
-èkodaäjo	è k o d a ä j o	E k o d a ' a j o
+èkodie(j)o	è k o d ie ( j ) o	E k o d i ( y ) o
+èkodaäjo	è k o d a ä j o	E k o d a ' a y o
 èkoeaka	è k oe a k a	E k u a k a
 èkoedodo	è k oe d o d o	E k u d o d o
 èkoedodoka	è k oe d o d o k a	E k u d o d o k a
 èkoeha	è k oe h a	E k u h a
-èkoehie(j)o	è k oe h ie ( j ) o	E k u h i ( j ) o
+èkoehie(j)o	è k oe h ie ( j ) o	E k u h i ( y ) o
 èkoeka	è k oe k a	E k u k a
 èkoeka(oe)waie	è k oe k a ( oe ) w a ie	E k u k a ( u ) w a i
 èkoema(q)aoe	è k oe m a ( q ) a oe	E k u m a ( ' ) a u
@@ -472,25 +472,25 @@ èkoe(w)o	è k oe ( w ) o	E k u ( w ) o
 èkohèaq	è k o h è a q	E k o h E a '
 èkoh(oie)	è k o h ( o ie )	E k o h ( o i )
 èkohoq	è k o h o q	E k o h o '
-èkohoqoe(j)obie	è k o h o q oe ( j ) o b ie	E k o h o ' u ( j ) o b i
-èkojoq	è k o j o q	E k o j o '
+èkohoqoe(j)obie	è k o h o q oe ( j ) o b ie	E k o h o ' u ( y ) o b i
+èkojoq	è k o j o q	E k o y o '
 èkokoq	è k o k o q	E k o k o '
 èkonienie	è k o n ie n ie	E k o n i n i
 kokonienie	k o k o n ie n ie	k o k o n i n i
 èkonjoq	è k o nj o q	E k o ñ o '
 èkoq	è k o q	E k o '
 èkoqä	è k o qä	E k o ' a
-èkoqa(j)odie(j)a	è k o q a ( j ) o d ie ( j ) a	E k o ' a ( j ) o d i ( j ) a
-èko(q)hajo	è k o ( q ) h a j o	E k o ( ' ) h a j o
+èkoqa(j)odie(j)a	è k o q a ( j ) o d ie ( j ) a	E k o ' a ( y ) o d i ( y ) a
+èko(q)hajo	è k o ( q ) h a j o	E k o ( ' ) h a y o
 èko(ö)qko(ö)q	è k o ( ö ) q k o ( ö ) q	E k o ( ' o ) ' k o ( ' o ) '
-èkoq(n)jaoe	è k o q ( n ) j a oe	E k o ' ( n ) j a u
+èkoq(n)jaoe	è k o q ( n ) j a oe	E k o ' ( n ) y a u
 èkoqoeie	è k o q oe ie	E k o ' u i
 èkoropie	è k o r o p ie	E k o r o p i
 èko(w)a	è k o ( w ) a	E k o ( w ) a
 èko(w)èq	è k o ( w ) è q	E k o ( w ) E '
 èko(w)èq	è k o ( w ) è q	E k o ( w ) E '
 èoe(w)è	è oe ( w ) è	E u ( w ) E
-ie(j)akapieta	ie ( j ) a k a p ie t a	i ( j ) a k a p i t a
+ie(j)akapieta	ie ( j ) a k a p ie t a	i ( y ) a k a p i t a
 kaoedara	k a oe d a r a	k a u d a r a
 oehoeqkoe(w)o	oe h oe q k oe ( w ) o	u h u ' k u ( w ) o
 oewokie	oe w o k ie	u w o k i
@@ -512,7 +512,7 @@ èmienoemienoe	è m ie n oe m ie n oe	E m i n u m i n u
 èmoamoq	è m o a m o q	E m o a m o '
 èmoeoeha	è m oeoe h a	E m u ' u h a
 èmomoq	è m o m o q	E m o m o '
-èmoöie(j)a	è m o ö ie ( j ) a	E m o ' o i ( j ) a
+èmoöie(j)a	è m o ö ie ( j ) a	E m o ' o i ( y ) a
 ènaè(na)	è n a è ( n a )	E n a E ( n a )
 ènaè(na): oe(w)apo	è n a è ( n a ) : # oe ( w ) a p o	E n a E ( n a ) : # u ( w ) a p o
 oe(w)aie	oe ( w ) a ie	u ( w ) a i
@@ -525,8 +525,8 @@ ènè	è n è	E n E
 ènèhèie	è n è h è ie	E n E h E i
 ènèanèa	è n è a n è a	E n E a n E a
 ènèka	è n è k a	E n E k a
-ènieènie(j)a	è n ie è n ie ( j ) a	E n i E n i ( j ) a
-ènie(j)o	è n ie ( j ) o	E n i ( j ) o
+ènieènie(j)a	è n ie è n ie ( j ) a	E n i E n i ( y ) a
+ènie(j)o	è n ie ( j ) o	E n i ( y ) o
 ènienie	è n ie n ie	E n i n i
 ènoä	è n o ä	E n o ' a
 ènoeqoeq	è n oe q oe q	E n u ' u '
@@ -536,7 +536,7 @@ ènoöhoq	è n o ö h o q	E n o ' o h o '
 èoaba	è o a b a	E o a b a
 èobo	è o b o	E o b o
 èodie	è o d ie	E o d i
-apieha èodiedie(j)a	a p ie h a # è o d ie d ie ( j ) a	a p i h a # E o d i d i ( j ) a
+apieha èodiedie(j)a	a p ie h a # è o d ie d ie ( j ) a	a p i h a # E o d i d i ( y ) a
 èodieaäq	è o d ie a ä q	E o d i a ' a '
 bodieaäq	b o d ie a ä q	b o d i a ' a '
 kahohodieaäq	k a h o h o d ie a ä q	k a h o h o d i a ' a '
@@ -549,14 +549,14 @@ èodohèie	è o d o h è ie	E o d o h E i
 èoeba	è oe b a	E u b a
 èoeba: èkaèn	è oe b a : # è k a è n	E u b a : # E k a E n
 èkieadoboe	è k ie a d o b oe	E k i a d o b u
-èkojoq	è k o j o q	E k o j o '
+èkojoq	è k o j o q	E k o y o '
 ètèbè	è t è b è	E t E b E
 kèèèpa	k è è è p a	k E E E p a
 èoeda	è oe d a	E u d a
 èoedie	è oe d ie	E u d i
 èoedoe	è oe d oe	E u d u
 èoedoe bèlo(w)a	è oe d oe # b è l o ( w ) a	E u d u # b E l o ( w ) a
-èoeèhè(j)a	è oe è h è ( j ) a	E u E h E ( j ) a
+èoeèhè(j)a	è oe è h è ( j ) a	E u E h E ( y ) a
 èoehoe	è oe h oe	E u h u
 èoeko	è oe k o	E u k o
 èoekoe	è oe k oe	E u k u
@@ -569,12 +569,12 @@ èoema	è oe m a	E u m a
 èoemiehie	è oe m ie h ie	E u m i h i
 èoemo	è oe m o	E u m o
 èoenèkè	è oe n è k è	E u n E k E
-è(oe)noekie(j)o	è ( oe ) n oe k ie ( j ) o	E ( u ) n u k i ( j ) o
+è(oe)noekie(j)o	è ( oe ) n oe k ie ( j ) o	E ( u ) n u k i ( y ) o
 èoeoe	è oeoe	E u ' u
 èoeoe(w)apo	è oeoe ( w ) a p o	E u ' u ( w ) a p o
 èoeoenoe	è oeoe n oe	E u ' u n u
 èoepo	è oe p o	E u p o
-èoepoeie(j)o	è oe p oe ie ( j ) o	E u p u i ( j ) o
+èoepoeie(j)o	è oe p oe ie ( j ) o	E u p u i ( y ) o
 èoepoeqoe(w)o	è oe p oe q oe ( w ) o	E u p u ' u ( w ) o
 èoepoe(w)a	è oe p oe ( w ) a	E u p u ( w ) a
 èoe(w)a	è oe ( w ) a	E u ( w ) a
@@ -586,7 +586,7 @@ è(o)hora; è(o)horaoekèèpa	è ( o ) h o r a ; # è ( o ) h o r a oe k è 
 èokaha	è o k a h a	E o k a h a
 èokahao	è o k a h a o	E o k a h a o
 èokaq	è o k a q	E o k a '
-èokie(j)o	è o k ie ( j ) o	E o k i ( j ) o
+èokie(j)o	è o k ie ( j ) o	E o k i ( y ) o
 èoko	è o k o	E o k o
 èokoa	è o k o a	E o k o a
 èoko(ĕ)	è o k o ( ĕ )	E o k o ( ė )
@@ -619,10 +619,10 @@ èpaboriekie	è p a b o r ie k ie	E p a b o r i k i
 èpadoedoe	è p a d oe d oe	E p a d u d u
 èpaèka	è p a è k a	E p a E k a
 èpaèloèpaèloie	è p a è l oè p a è l o ie	E p a E l u p a E l o i
-èpaènoqjaqä	è p a è n o q j a qä	E p a E n o ' j a ' a
+èpaènoqjaqä	è p a è n o q j a qä	E p a E n o ' y a ' a
 èpaèpa	è p a è p a	E p a E p a
 èpahiedoa	è p a h ie d o a	E p a h i d o a
-èpahjoe	è p a h j oe	E p a h j u
+èpahjoe	è p a h j oe	E p a h y u
 èèdako	è è d a k o	E E d a k o
 èpaho	è p a h o	E p a h o
 èpahoäq	è p a h o ä q	E p a h o ' a '
@@ -653,15 +653,15 @@ èpèkoe(w)aq	è p è k oe ( w ) a q	E p E k u ( w ) a '
 èpèkoeqwaq	è p è k oe q w a q	E p E k u ' w a '
 èpènaö	è p è n a ö	E p E n a ' o
 èpèrhaoedie	è p è r h a oe d ie	E p E r h a u d i
-èpèrie(j)oq	è p è r ie ( j ) o q	E p E r i ( j ) o '
+èpèrie(j)oq	è p è r ie ( j ) o q	E p E r i ( y ) o '
 èpieako(w)èq	è p ie a k o ( w ) è q	E p i a k o ( w ) E '
 èpieaoe(w)apo	è p ie a oe ( w ) a p o	E p i a u ( w ) a p o
-èpiedjaja	è p ie dj a j a	E p i j a j a
+èpiedjaja	è p ie dj a j a	E p i j a y a
 èpiedjoe	è p ie dj oe	E p i j u
 èpiedjoeapo	è p ie dj oe a p o	E p i j u a p o
 èpieho; èpiehooe(è)oe(w)è	è p ie h o ; # è p ie h o oe ( è ) oe ( w ) è	E p i h o ; # E p i h o u ( E ) u ( w ) E
-èpie(j)a	è p ie ( j ) a	E p i ( j ) a
-èpie(j)opie(j)o	è p ie ( j ) o p ie ( j ) o	E p i ( j ) o p i ( j ) o
+èpie(j)a	è p ie ( j ) a	E p i ( y ) a
+èpie(j)opie(j)o	è p ie ( j ) o p ie ( j ) o	E p i ( y ) o p i ( y ) o
 èpieko	è p ie k o	E p i k o
 èpienie	è p ie n ie	E p i n i
 èpieniepie	è p ie n ie p ie	E p i n i p i
@@ -702,24 +702,24 @@ garam	g a r a m	g a r a m
 goeroe	g oe r oe	g u r u
 ha	h a	h a
 habakao	h a b a k a o	h a b a k a o
-haboejaq	h a b oe j a q	h a b u j a '
+haboejaq	h a b oe j a q	h a b u y a '
 haie	h a ie	h a i
-haiejaha	h a ie j a h a	h a i j a h a
-abahaiejaha	a b a h a ie j a h a	a b a h a i j a h a
-kahaiejaha	k a h a ie j a h a	k a h a i j a h a
+haiejaha	h a ie j a h a	h a i y a h a
+abahaiejaha	a b a h a ie j a h a	a b a h a i y a h a
+kahaiejaha	k a h a ie j a h a	k a h a i y a h a
 halè	h a l è	h a l E
 hamèhènie	h a m è h è n ie	h a m E h E n i
 haoe	h a oe	h a u
 hèdapiehie	h è d a p ie h ie	h E d a p i h i
-hèie(j)o	h è ie ( j ) o	h E i ( j ) o
+hèie(j)o	h è ie ( j ) o	h E i ( y ) o
 hie	h ie	h i
 hiebaie	h ie b a ie	h i b a i
-hieie(j)oie(j)o	h ie ie ( j ) o ie ( j ) o	h i i ( j ) o i ( j ) o
-hie(j)onie	h ie ( j ) o n ie	h i ( j ) o n i
+hieie(j)oie(j)o	h ie ie ( j ) o ie ( j ) o	h i i ( y ) o i ( y ) o
+hie(j)onie	h ie ( j ) o n ie	h i ( y ) o n i
 hienoea	h ie n oe a	h i n u a
 ho	h o	h o
 hoäkoqaq	h o ä k o q a q	h o ' a k o ' a '
-hobaäoeie(j)aka	h o b a ä oe ie ( j ) a k a	h o b a ' a u i ( j ) a k a
+hobaäoeie(j)aka	h o b a ä oe ie ( j ) a k a	h o b a ' a u i ( y ) a k a
 hobaäoe(w)a	h o b a ä oe ( w ) a	h o b a ' a u ( w ) a
 hobahaba	h o b a h a b a	h o b a h a b a
 hobèèaö	h o b è è a ö	h o b E E a ' o
@@ -743,17 +743,17 @@ ie	ie	i
 iedjie	ie dj ie	i j i
 ieho	ie h o	i h o
 ieho akoloe poq	ie h o # a k o l oe # p o q	i h o # a k o l u # p o '
-iehoie(j)ana	ie h o ie ( j ) a n a	i h o i ( j ) a n a
-ie(j)aäo	ie ( j ) a ä o	i ( j ) a ' a o
-ie(j)abie	ie ( j ) a b ie	i ( j ) a b i
-ie(j)aha(ie)	ie ( j ) a h a ( ie )	i ( j ) a h a ( i )
-ie(j)ahaoeoeaq	ie ( j ) a h a oeoe a q	i ( j ) a h a u ' u a '
-ie(j)o	ie ( j ) o	i ( j ) o
-ie(j)oho	ie ( j ) o h o	i ( j ) o h o
-ie(j)okie	ie ( j ) o k ie	i ( j ) o k i
-ie(j)omoö	ie ( j ) o m o ö	i ( j ) o m o ' o
-ie(j)onie	ie ( j ) o n ie	i ( j ) o n i
-ie(j)onie(j)a	ie ( j ) o n ie ( j ) a	i ( j ) o n i ( j ) a
+iehoie(j)ana	ie h o ie ( j ) a n a	i h o i ( y ) a n a
+ie(j)aäo	ie ( j ) a ä o	i ( y ) a ' a o
+ie(j)abie	ie ( j ) a b ie	i ( y ) a b i
+ie(j)aha(ie)	ie ( j ) a h a ( ie )	i ( y ) a h a ( i )
+ie(j)ahaoeoeaq	ie ( j ) a h a oeoe a q	i ( y ) a h a u ' u a '
+ie(j)o	ie ( j ) o	i ( y ) o
+ie(j)oho	ie ( j ) o h o	i ( y ) o h o
+ie(j)okie	ie ( j ) o k ie	i ( y ) o k i
+ie(j)omoö	ie ( j ) o m o ö	i ( y ) o m o ' o
+ie(j)onie	ie ( j ) o n ie	i ( y ) o n i
+ie(j)onie(j)a	ie ( j ) o n ie ( j ) a	i ( y ) o n i ( y ) a
 ieka	ie k a	i k a
 iekahaö	ie k a h a ö	i k a h a ' o
 iekahoboe(w)ara	ie k a h o b oe ( w ) a r a	i k a h o b u ( w ) a r a
@@ -769,18 +769,18 @@ ietjo	ie tj o	i c o
 ietjoehaq	ie tj oe h a q	i c u h a '
 ka	k a	k a
 kaä	k a ä	k a ' a
-kaäämie	k a ä ä m ie	k a ' a ʔ a m i
-kaä(ä)oe(w)a	k a ä ( ä ) oe ( w ) a	k a ' a ( ʔ a ) u ( w ) a
+kaäämie	k a ä ä m ie	k a ' a ' a m i
+kaä(ä)oe(w)a	k a ä ( ä ) oe ( w ) a	k a ' a ( ' a ) u ( w ) a
 kaädahoaie	k a ä d a h o a ie	k a ' a d a h o a i
 kaädodie	k a ä d o d ie	k a ' a d o d i
-kaädo(j)a	k a ä d o ( j ) a	k a ' a d o ( j ) a
+kaädo(j)a	k a ä d o ( j ) a	k a ' a d o ( y ) a
 kaähoeöie	k a ä h oe ö ie	k a ' a h u ' o i
-kaäjoq	k a ä j o q	k a ' a j o '
+kaäjoq	k a ä j o q	k a ' a y o '
 ka(ä)kèo	k a ( ä ) k è o	k a ( ' a ) k E o
 kaäkèho	k a ä k è h o	k a ' a k E h o
 kaäkie	k a ä k ie	k a ' a k i
 kaäkieè	k a ä k ie è	k a ' a k i E
-kaäkiekie(j)ĕ	k a ä k ie k ie ( j ) ĕ	k a ' a k i k i ( j ) ė
+kaäkiekie(j)ĕ	k a ä k ie k ie ( j ) ĕ	k a ' a k i k i ( y ) ė
 kaäkienafah	k a ä k ie n a f a h	k a ' a k i n a f a h
 kaäkienè	k a ä k ie n è	k a ' a k i n E
 kaäkieniepa	k a ä k ie n ie p a	k a ' a k i n i p a
@@ -794,7 +794,7 @@ kaäpoho	k a ä p o h o	k a ' a p o h o
 kababahaq	k a b a b a h a q	k a b a b a h a '
 kabáèlo	k a b á è l o	k a b a E l o
 kabahoa	k a b a h o a	k a b a h o a
-kabahöjaäq	k a b a h ö j a ä q	k a b a h u̇ j a ' a '
+kabahöjaäq	k a b a h ö j a ä q	k a b a h u̇ y a ' a '
 kabakoä	k a b a k o ä	k a b a k o ' a
 kabatjoä	k a b a tj o ä	k a b a c o ' a
 kabĕa	k a b ĕ a	k a b ė a
@@ -817,7 +817,7 @@ kaènoe	k a è n oe	k a E n u
 kaèöèo	k a è ö è o	k a E u̇ E o
 kah	k a h	k a h
 kaha	k a h a	k a h a
-kahabaja	k a h a b a j a	k a h a b a j a
+kahabaja	k a h a b a j a	k a h a b a y a
 kahabaoeba	k a h a b a oe b a	k a h a b a u b a
 kahabarieq	k a h a b a r ie q	k a h a b a r i '
 kahabieta	k a h a b ie t a	k a h a b i t a
@@ -827,7 +827,7 @@ kahaho	k a h a h o	k a h a h o
 kahaie	k a h a ie	k a h a i
 kahaiekoenaq	k a h a ie k oe n a q	k a h a i k u n a '
 kahaienoeapè	k a h a ie n oe a p è	k a h a i n u a p E
-kahaja	k a h a j a	k a h a j a
+kahaja	k a h a j a	k a h a y a
 kahakakie	k a h a k a k ie	k a h a k a k i
 kahakouda	k a h a k o u d a	k a h a k o u d a
 kahao	k a h a o	k a h a o
@@ -837,40 +837,40 @@ kahaoeq	k a h a oe q	k a h a u '
 kahaoka	k a h a o k a	k a h a o k a
 kahapaq	k a h a p a q	k a h a p a '
 kahapie	k a h a p ie	k a h a p i
-kahapoeoeie(j)a	k a h a p oeoe ie ( j ) a	k a h a p u ' u i ( j ) a
+kahapoeoeie(j)a	k a h a p oeoe ie ( j ) a	k a h a p u ' u i ( y ) a
 kahapoeqoeie	k a h a p oe q oe ie	k a h a p u ' u i
 kaharao	k a h a r a o	k a h a r a o
 kahèdohèdo	k a h è d o h è d o	k a h E d o h E d o
 kahèè	k a h è è	k a h E E
-kahè(j)oq	k a h è ( j ) o q	k a h E ( j ) o '
+kahè(j)oq	k a h è ( j ) o q	k a h E ( y ) o '
 kahiekanie	k a h ie k a n ie	k a h i k a n i
 kahienoaq	k a h ie n o a q	k a h i n o a '
 kahiepa	k a h ie p a	k a h i p a
-kahoeie(j)oeroe(w)a	k a h oe ie ( j ) oe r oe ( w ) a	k a h u i ( j ) u r u ( w ) a
+kahoeie(j)oeroe(w)a	k a h oe ie ( j ) oe r oe ( w ) a	k a h u i ( y ) u r u ( w ) a
 kahoepohoepoö	k a h oe p o h oe p o ö	k a h u p o h u p o ' o
 kahopo	k a h o p o	k a h o p o
 kahö(w)a	k a h ö ( w ) a	k a h u̇ ( w ) a
 kaie	k a ie	k a i
-kaie(j)aè	k a ie ( j ) a è	k a i ( j ) a E
-kaie(j)anono	k a ie ( j ) a n o n o	k a i ( j ) a n o n o
-kaie(j)ojo(q)	k a ie ( j ) o j o ( q )	k a i ( j ) o j o ( ' )
+kaie(j)aè	k a ie ( j ) a è	k a i ( y ) a E
+kaie(j)anono	k a ie ( j ) a n o n o	k a i ( y ) a n o n o
+kaie(j)ojo(q)	k a ie ( j ) o j o ( q )	k a i ( y ) o y o ( ' )
 kaiekoko	k a ie k o k o	k a i k o k o
 kaienono(q)	k a ie n o n o ( q )	k a i n o n o ( ' )
-kajajaä	k a j a j a ä	k a j a j a ' a
-kajo	k a j o	k a j o
-kajoöie	k a j o ö ie	k a j o ' o i
+kajajaä	k a j a j a ä	k a y a y a ' a
+kajo	k a j o	k a y o
+kajoöie	k a j o ö ie	k a y o ' o i
 kakanaka	k a k a n a k a	k a k a n a k a
 kakanakoe(w)a	k a k a n a k oe ( w ) a	k a k a n a k u ( w ) a
 kakanèha	k a k a n è h a	k a k a n E h a
 kakaraie	k a k a r a ie	k a k a r a i
-kakarie(j)o	k a k a r ie ( j ) o	k a k a r i ( j ) o
+kakarie(j)o	k a k a r ie ( j ) o	k a k a r i ( y ) o
 kakèkaka	k a k è k a k a	k a k E k a k a
 kakèlèha	k a k è l è h a	k a k E l E h a
-kakiedahaie(j)o	k a k ie d a h a ie ( j ) o	k a k i d a h a i ( j ) o
+kakiedahaie(j)o	k a k ie d a h a ie ( j ) o	k a k i d a h a i ( y ) o
 kakiedjoa	k a k ie dj o a	k a k i j o a
 kakiedohè	k a k ie d o h è	k a k i d o h E
 kakiekiedohè	k a k ie k ie d o h è	k a k i k i d o h E
-kakiekie(j)oe	k a k ie k ie ( j ) oe	k a k i k i ( j ) u
+kakiekie(j)oe	k a k ie k ie ( j ) oe	k a k i k i ( y ) u
 kakiepakiepa	k a k ie p a k ie p a	k a k i p a k i p a
 kakoehè	k a k oe h è	k a k u h E
 kakoenjè	k a k oe nj è	k a k u ñ E
@@ -906,10 +906,10 @@ kanoöho(w)aq	k a n o ö h o ( w ) a q	k a n o ' o h o ( w ) a '
 kao(e)	k a o ( e )	k a o ( e )
 kaoeäq	k a oe ä q	k a u ' a '
 kaoedada	k a oe d a d a	k a u d a d a
-kaoedahjo	k a oe d a h j o	k a u d a h j o
+kaoedahjo	k a oe d a h j o	k a u d a h y o
 kaoedaoe(w)arah	k a oe d a oe ( w ) a r a h	k a u d a u ( w ) a r a h
 kaoedèqää	k a oe d è q ää	k a u d E ' a ' a
-kaoenie(j)a	k a oe n ie ( j ) a	k a u n i ( j ) a
+kaoenie(j)a	k a oe n ie ( j ) a	k a u n i ( y ) a
 kaoepè(q)	k a oe p è ( q )	k a u p E ( ' )
 kaoe(w)a	k a oe ( w ) a	k a u ( w ) a
 kaoe(w)èoe(w)è	k a oe ( w ) è oe ( w ) è	k a u ( w ) E u ( w ) E
@@ -938,19 +938,19 @@ kaqienèaoe	k a q ie n è a oe	k a ' i n E a u
 karaoe	k a r a oe	k a r a u
 karieporiepo	k a r ie p o r ie p o	k a r i p o r i p o
 karoe(oe)(w)a	k a r oe ( oe ) ( w ) a	k a r u ( u ) ( w ) a
-karohaja	k a r o h a j a	k a r o h a j a
-karorie(j)ĕ	k a r o r ie ( j ) ĕ	k a r o r i ( j ) ė
+karohaja	k a r o h a j a	k a r o h a y a
+karorie(j)ĕ	k a r o r ie ( j ) ĕ	k a r o r i ( y ) ė
 kĕbahè	k ĕ b a h è	k ė b a h E
 kĕlamboe	k ĕ l a m b oe	k ė l a m b u
-kĕmie(j)oe	k ĕ m ie ( j ) oe	k ė m i ( j ) u
-kĕnaja	k ĕ n a j a	k ė n a j a
+kĕmie(j)oe	k ĕ m ie ( j ) oe	k ė m i ( y ) u
+kĕnaja	k ĕ n a j a	k ė n a y a
 kĕwalie	k ĕ w a l ie	k ė w a l i
 kè	k è	k E
 kèè	k è è	k E E
 kèhèkoq	k è h è k o q	k E h E k o '
 kèhèla	k è h è l a	k E h E l a
 kèho	k è h o	k E h o
-kèhodojo	k è h o d o j o	k E h o d o j o
+kèhodojo	k è h o d o j o	k E h o d o y o
 kèhowa	k è h o w a	k E h o w a
 kèkèqie	k è k è q ie	k E k E ' i
 kèkoe(w)èq	k è k oe ( w ) è q	k E k u ( w ) E '
@@ -972,10 +972,10 @@ kiebohèie	k ie b o h è ie	k i b o h E i
 kiedahoho	k ie d a h o h o	k i d a h o h o
 kiedahaq	k ie d a h a q	k i d a h a '
 kiedahoaq	k ie d a h o a q	k i d a h o a '
-kiedajaq	k ie d a j a q	k i d a j a '
+kiedajaq	k ie d a j a q	k i d a y a '
 kiedaoedaoe	k ie d a oe d a oe	k i d a u d a u
 kiedara	k ie d a r a	k i d a r a
-kiedèdè(j)aq	k ie d è d è ( j ) a q	k i d E d E ( j ) a '
+kiedèdè(j)aq	k ie d è d è ( j ) a q	k i d E d E ( y ) a '
 kiedie	k ie d ie	k i d i
 kiedie (è)kèho	k ie d ie # ( è ) k è h o	k i d i # ( E ) k E h o
 kiediediehoq	k ie d ie d ie h o q	k i d i d i h o '
@@ -983,7 +983,7 @@ kiediedieka	k ie d ie d ie k a	k i d i d i k a
 kiedieopè	k ie d ie o p è	k i d i o p E
 kiediepoe	k ie d ie p oe	k i d i p u
 kiediepoe (èq)èhoenè	k ie d ie p oe # ( è q ) è h oe n è	k i d i p u # ( E ' ) E h u n E
-kiedjaieie(j)aq	k ie dj a ie ie ( j ) a q	k i j a i i ( j ) a '
+kiedjaieie(j)aq	k ie dj a ie ie ( j ) a q	k i j a i i ( y ) a '
 kiedjie	k ie dj ie	k i j i
 kiedjiedjieö	k ie dj ie dj ie ö	k i j i j i ' o
 kiedjiekiedjie	k ie dj ie k ie dj ie	k i j i k i j i
@@ -993,31 +993,31 @@ kiedobieka	k ie d o b ie k a	k i d o b i k a
 kiedodo	k ie d o d o	k i d o d o
 kiedodo iedjie	k ie d o d o # ie dj ie	k i d o d o # i j i
 kiedoropoq	k ie d o r o p o q	k i d o r o p o '
-kieè(ja)	k ie è ( j a )	k i E ( j a )
+kieè(ja)	k ie è ( j a )	k i E ( y a )
 kièèlo	k iè è l o	k i E l o
 kieènoe	k ie è n oe	k i E n u
-kiehiebie(j)a	k ie h ie b ie ( j ) a	k i h i b i ( j ) a
+kiehiebie(j)a	k ie h ie b ie ( j ) a	k i h i b i ( y ) a
 kiehiema(na)	k ie h ie m a ( n a )	k i h i m a ( n a )
 kiehiema(na)èodie	k ie h ie m a ( n a ) è o d ie	k i h i m a ( n a ) E o d i
 kiehieoba	k ie h ie o b a	k i h i o b a
-kiehoè(j)a	k ie h oè ( j ) a	k i h u ( j ) a
+kiehoè(j)a	k ie h oè ( j ) a	k i h u ( y ) a
 kiehohoda(q)	k ie h o h o d a ( q )	k i h o h o d a ( ' )
 kieiedoka	k ie ie d o k a	k i i d o k a
-kieie(j)oèdaha	k ie ie ( j ) oè d a h a	k i i ( j ) u d a h a
+kieie(j)oèdaha	k ie ie ( j ) oè d a h a	k i i ( y ) u d a h a
 kieiepo	k ie ie p o	k i i p o
 kieietjo	k ie ie tj o	k i i c o
-kie(j)a	k ie ( j ) a	k i ( j ) a
-kie(j)abaq	k ie ( j ) a b a q	k i ( j ) a b a '
-kie(j)abaq iekèo	k ie ( j ) a b a q # ie k è o	k i ( j ) a b a ' # i k E o
-kie(j)ahariedjoe	k ie ( j ) a h a r ie dj oe	k i ( j ) a h a r i j u
-kie(j)aie	k ie ( j ) a ie	k i ( j ) a i
-kie(j)oenano	k ie ( j ) oe n a n o	k i ( j ) u n a n o
-kie(j)oèdoha	k ie ( j ) oè d o h a	k i ( j ) u d o h a
-kie(j)oha	k ie ( j ) o h a	k i ( j ) o h a
-kie(j)oho	k ie ( j ) o h o	k i ( j ) o h o
-kie(j)okko	k ie ( j ) o k k o	k i ( j ) o k k o
-kie(j)opèka	k ie ( j ) o p è k a	k i ( j ) o p E k a
-kie(j)oqoqaq	k ie ( j ) o q o q a q	k i ( j ) o ' o ' a '
+kie(j)a	k ie ( j ) a	k i ( y ) a
+kie(j)abaq	k ie ( j ) a b a q	k i ( y ) a b a '
+kie(j)abaq iekèo	k ie ( j ) a b a q # ie k è o	k i ( y ) a b a ' # i k E o
+kie(j)ahariedjoe	k ie ( j ) a h a r ie dj oe	k i ( y ) a h a r i j u
+kie(j)aie	k ie ( j ) a ie	k i ( y ) a i
+kie(j)oenano	k ie ( j ) oe n a n o	k i ( y ) u n a n o
+kie(j)oèdoha	k ie ( j ) oè d o h a	k i ( y ) u d o h a
+kie(j)oha	k ie ( j ) o h a	k i ( y ) o h a
+kie(j)oho	k ie ( j ) o h o	k i ( y ) o h o
+kie(j)okko	k ie ( j ) o k k o	k i ( y ) o k k o
+kie(j)opèka	k ie ( j ) o p è k a	k i ( y ) o p E k a
+kie(j)oqoqaq	k ie ( j ) o q o q a q	k i ( y ) o ' o ' a '
 kiekaäboe	k ie k a ä b oe	k i k a ' a b u
 kiekaäna	k ie k a ä n a	k i k a ' a n a
 kiekabiedja	k ie k a b ie dj a	k i k a b i j a
@@ -1032,16 +1032,16 @@ kiekèora(q)	k ie k è o r a ( q )	k i k E o r a ( ' )
 kiekèpoqä	k ie k è p o qä	k i k E p o ' a
 kiekèpoqoe(w)a	k ie k è p o q oe ( w ) a	k i k E p o ' u ( w ) a
 kiekèqie	k ie k è q ie	k i k E ' i
-kiekie(j)a	k ie k ie ( j ) a	k i k i ( j ) a
-kiekie(j)aqkie(j)aq	k ie k ie ( j ) a q k ie ( j ) a q	k i k i ( j ) a ' k i ( j ) a '
-kiekie(j)ara	k ie k ie ( j ) a r a	k i k i ( j ) a r a
-kiekie(j)o	k ie k ie ( j ) o	k i k i ( j ) o
+kiekie(j)a	k ie k ie ( j ) a	k i k i ( y ) a
+kiekie(j)aqkie(j)aq	k ie k ie ( j ) a q k ie ( j ) a q	k i k i ( y ) a ' k i ( y ) a '
+kiekie(j)ara	k ie k ie ( j ) a r a	k i k i ( y ) a r a
+kiekie(j)o	k ie k ie ( j ) o	k i k i ( y ) o
 kiekienie	k ie k ie n ie	k i k i n i
 kiekoekoe(q)ö	k ie k oe k oe ( q ) ö	k i k u k u ( ' ) u̇
 kiekoho	k ie k o h o	k i k o h o
 kiekohodaq	k ie k o h o d a q	k i k o h o d a '
 kiekoko	k ie k o k o	k i k o k o
-kiekokonie(j)a	k ie k o k o n ie ( j ) a	k i k o k o n i ( j ) a
+kiekokonie(j)a	k ie k o k o n ie ( j ) a	k i k o k o n i ( y ) a
 kiekononaq	k ie k o n o n a q	k i k o n o n a '
 kiekooe(w)a	k ie k o oe ( w ) a	k i k o u ( w ) a
 kiekoöka	k ie k o ö k a	k i k o ' o k a
@@ -1049,9 +1049,9 @@ kiekoro(w)a	k ie k o r o ( w ) a	k i k o r o ( w ) a
 kielaoeloe	k ie l a oe l oe	k i l a u l u
 kiemèmè èbahaoeq	k ie m è m è # è b a h a oe q	k i m E m E # E b a h a u '
 kiemoenie	k ie m oe n ie	k i m u n i
-kiemoenie(j)o	k ie m oe n ie ( j ) o	k i m u n i ( j ) o
-kiemomojo	k ie m o m o j o	k i m o m o j o
-kienanaja	k ie n a n a j a	k i n a n a j a
+kiemoenie(j)o	k ie m oe n ie ( j ) o	k i m u n i ( y ) o
+kiemomojo	k ie m o m o j o	k i m o m o y o
+kienanaja	k ie n a n a j a	k i n a n a y a
 kienanapa	k ie n a n a p a	k i n a n a p a
 kienienaqèkaq	k ie n ie n a q è k a q	k i n i n a ' E k a '
 kienienèqa	k ie n ie n è q a	k i n i n E ' a
@@ -1060,18 +1060,18 @@ kieno	k ie n o	k i n o
 kienoäo	k ie n o ä o	k i n o ' a o
 kienoeoeka	k ie n oeoe k a	k i n u ' u k a
 kienono	k ie n o n o	k i n o n o
-kienono: è(j)a	k ie n o n o : # è ( j ) a	k i n o n o : # E ( j ) a
-è(j)adie(j)a	è ( j ) a d ie ( j ) a	E ( j ) a d i ( j ) a
-è(j)aè	è ( j ) a è	E ( j ) a E
+kienono: è(j)a	k ie n o n o : # è ( j ) a	k i n o n o : # E ( y ) a
+è(j)adie(j)a	è ( j ) a d ie ( j ) a	E ( y ) a d i ( y ) a
+è(j)aè	è ( j ) a è	E ( y ) a E
 kienoöna(w)aie	k ie n o ö n a ( w ) a ie	k i n o ' o n a ( w ) a i
-kienoqè(j)a	k ie n o q è ( j ) a	k i n o ' E ( j ) a
+kienoqè(j)a	k ie n o q è ( j ) a	k i n o ' E ( y ) a
 kiodèa	k i o d è a	k i o d E a
 kieoenèkaq	k ie oe n è k a q	k i u n E k a '
-kieojo	k ie o j o	k i o j o
+kieojo	k ie o j o	k i o y o
 kieokahaie	k ie o k a h a ie	k i o k a h a i
 kieonieka	k ie o n ie k a	k i o n i k a
 kieoö	k ie o ö	k i o ' o
-kieoöäaq	k ie o ö ä a q	k i o ' o ʔ a a '
+kieoöäaq	k ie o ö ä a q	k i o ' o ' a a '
 kieoöie	k ie o ö ie	k i o ' o i
 kieoöno	k ie o ö n o	k i o ' o n o
 kieoönopa	k ie o ö n o p a	k i o ' o n o p a
@@ -1096,7 +1096,7 @@ kieparaèbahao(q)	k ie p a r a è b a h a o ( q )	k i p a r a E b a h a o ( ' )
 kieparahpie	k ie p a r a h p ie	k i p a r a h p i
 kieparahopie	k ie p a r a h o p ie	k i p a r a h o p i
 kieparoa	k ie p a r o a	k i p a r o a
-kiepĕraiedie(j)og	k ie p ĕ r a ie d ie ( j ) o g	k i p ė r a i d i ( j ) o g
+kiepĕraiedie(j)og	k ie p ĕ r a ie d ie ( j ) o g	k i p ė r a i d i ( y ) o g
 kiepĕhaie	k ie p ĕ h a ie	k i p ė h a i
 kiepèhèboeöbo	k ie p è h è b oe ö b o	k i p E h E b u ' o b o
 kiepèhodo	k ie p è h o d o	k i p E h o d o
@@ -1108,56 +1108,56 @@ kiepoedieka	k ie p oe d ie k a	k i p u d i k a
 kiepoefoe	k ie p oe f oe	k i p u f u
 kiepoeoeda	k ie p oeoe d a	k i p u ' u d a
 kiepoe(w)a	k ie p oe ( w ) a	k i p u ( w ) a
-kiepohajĕ	k ie p o h a j ĕ	k i p o h a j ė
+kiepohajĕ	k ie p o h a j ĕ	k i p o h a y ė
 kiepokana	k ie p o k a n a	k i p o k a n a
 kiepokiepo	k ie p o k ie p o	k i p o k i p o
 kiepoö	k ie p o ö	k i p o ' o
 kiepopoä	k ie p o p o ä	k i p o p o ' a
 kiepoqöaq	k ie p o q ö a q	k i p o ' u̇ a '
-kieqja	k ie q j a	k i ' j a
-koahajo	k o a h a j o	k o a h a j o
-koahie(j)a	k o a h ie ( j ) a	k o a h i ( j ) a
-koahie(j)a kapoe	k o a h ie ( j ) a # k a p oe	k o a h i ( j ) a # k a p u
+kieqja	k ie q j a	k i ' y a
+koahajo	k o a h a j o	k o a h a y o
+koahie(j)a	k o a h ie ( j ) a	k o a h i ( y ) a
+koahie(j)a kapoe	k o a h ie ( j ) a # k a p oe	k o a h i ( y ) a # k a p u
 köda	k ö d a	k u̇ d a
 kodo	k o d o	k o d o
 koe	k oe	k u
 koeano	k oe a n o	k u a n o
 koedaqä	k oe d a qä	k u d a ' a
 koedè	k oe d è	k u d E
-koedè: iejaha	k oe d è : # ie j a h a	k u d E : # i j a h a
+koedè: iejaha	k oe d è : # ie j a h a	k u d E : # i y a h a
 iepoko	ie p o k o	i p o k o
 ietopo	ie t o p o	i t o p o
-koedèja	k oe d è j a	k u d E j a
+koedèja	k oe d è j a	k u d E y a
 koedodoka	k oe d o d o k a	k u d o d o k a
 koedoe	k oe d oe	k u d u
 koehaie	k oe h a ie	k u h a i
 koehèdie	k oe h è d ie	k u h E d i
-koehèdie(j)aq	k oe h è d ie ( j ) a q	k u h E d i ( j ) a '
+koehèdie(j)aq	k oe h è d ie ( j ) a q	k u h E d i ( y ) a '
 koehiemaq	k oe h ie m a q	k u h i m a '
 koeie; koeie karieha	k oe ie ; # k oe ie # k a r ie h a	k u i ; # k u i # k a r i h a
 koeiehie	k oe ie h ie	k u i h i
 koeienaq	k oe ie n a q	k u i n a '
-koejaq	k oe j a q	k u j a '
+koejaq	k oe j a q	k u y a '
 koekaq	k oe k a q	k u k a '
 koekoebaka	k oe k oe b a k a	k u k u b a k a
 koemènoeè	k oe m è n oe è	k u m E n u E
 koemoe	k oe m oe	k u m u
-koenajo	k oe n a j o	k u n a j o
+koenajo	k oe n a j o	k u n a y o
 koepèie	k oe p è ie	k u p E i
 koeripo	k oe r i p o	k u r i p o
 koe(w)a	k oe ( w ) a	k u ( w ) a
 koe(w)adie	k oe ( w ) a d ie	k u ( w ) a d i
 kohèaq	k o h è a q	k o h E a '
 kohopaie	k o h o p a ie	k o h o p a i
-kohopie(j)oe	k o h o p ie ( j ) oe	k o h o p i ( j ) u
+kohopie(j)oe	k o h o p ie ( j ) oe	k o h o p i ( y ) u
 kokieha	k o k ie h a	k o k i h a
 kokoäaq	k o k o ä a q	k o k o ' a a '
 kokoĕ	k o k o ĕ	k o k o ė
-kokoie(j)aèa	k o k o ie ( j ) a è a	k o k o i ( j ) a E a
+kokoie(j)aèa	k o k o ie ( j ) a è a	k o k o i ( y ) a E a
 kokona	k o k o n a	k o k o n a
 (ko)koro(w)a	( k o ) k o r o ( w ) a	( k o ) k o r o ( w ) a
 kolè	k o l è	k o l E
-komojaqä	k o m o j a qä	k o m o j a ' a
+komojaqä	k o m o j a qä	k o m o y a ' a
 komokomo	k o m o k o m o	k o m o k o m o
 konèka	k o n è k a	k o n E k a
 konohaq(?)	k o n o h a q ( ? )	k o n o h a ' ( ? )
@@ -1186,21 +1186,21 @@ mohoie	m o h o ie	m o h o i
 mohomohoiena	m o h o m o h o ie n a	m o h o m o h o i n a
 mokie	m o k ie	m o k i
 moko	m o k o	m o k o
-moko èodie die(j)a	m o k o # è o d ie # d ie ( j ) a	m o k o # E o d i # d i ( j ) a
+moko èodie die(j)a	m o k o # è o d ie # d ie ( j ) a	m o k o # E o d i # d i ( y ) a
 moö	m o ö	m o ' o
-naäie(j)aha	n a ä ie ( j ) a h a	n a ' a i ( j ) a h a
+naäie(j)aha	n a ä ie ( j ) a h a	n a ' a i ( y ) a h a
 naäpoe(w)aka(q)	n a ä p oe ( w ) a k a ( q )	n a ' a p u ( w ) a k a ( ' )
 naèhapè	n a è h a p è	n a E h a p E
-nahaja	n a h a j a	n a h a j a
+nahaja	n a h a j a	n a h a y a
 naienaie	n a ie n a ie	n a i n a i
 naoemana	n a oe m a n a	n a u m a n a
 naponaq	n a p o n a q	n a p o n a '
 naqä	n a qä	n a ' a
-naqie(j)aie	n a q ie ( j ) a ie	n a ' i ( j ) a i
+naqie(j)aie	n a q ie ( j ) a ie	n a ' i ( y ) a i
 nèènie	n è è n ie	n E E n i
 nènèka	n è n è k a	n E n E k a
-nie(j)a	n ie ( j ) a	n i ( j ) a
-nie(j)oöhieniea	n ie ( j ) o ö h ie n ie a	n i ( j ) o ' o h i n i a
+nie(j)a	n ie ( j ) a	n i ( y ) a
+nie(j)oöhieniea	n ie ( j ) o ö h ie n ie a	n i ( y ) o ' o h i n i a
 noaha; kienoaha	n o a h a ; # k ie n o a h a	n o a h a ; # k i n o a h a
 noahaq	n o a h a q	n o a h a '
 noèaäq	n oè a ä q	n u a ' a '
@@ -1226,7 +1226,7 @@ oeöbie	oe ö b ie	u ' o b i
 oeoe	oeoe	u ' u
 oepanie	oe p a n ie	u p a n i
 oepè	oe p è	u p E
-oepĕhöjaäq	oe p ĕ h ö j a ä q	u p ė h u̇ j a ' a '
+oepĕhöjaäq	oe p ĕ h ö j a ä q	u p ė h u̇ y a ' a '
 oepoena(ie)	oe p oe n a ( ie )	u p u n a ( i )
 oe(w)a	oe ( w ) a	u ( w ) a
 oe(w)aha	oe ( w ) a h a	u ( w ) a h a
@@ -1238,17 +1238,17 @@ omö	o m ö	o m u̇
 öö	ö ö	u̇ u̇
 oödokie	o ö d o k ie	o ' o d o k i
 oökie(?)	o ö k ie ( ? )	o ' o k i ( ? )
-opahie(j)aka	o p a h ie ( j ) a k a	o p a h i ( j ) a k a
+opahie(j)aka	o p a h ie ( j ) a k a	o p a h i ( y ) a k a
 opèkaäq	o p è k a ä q	o p E k a ' a '
 opo	o p o	o p o
 owahie	o w a h ie	o w a h i
 paämahaie	p a ä m a h a ie	p a ' a m a h a i
 pabèoe	p a b è oe	p a b E u
-paboedajaq	p a b oe d a j a q	p a b u d a j a '
+paboedajaq	p a b oe d a j a q	p a b u d a y a '
 paböha	p a b ö h a	p a b u̇ h a
 padahèboe(w)a	p a d a h è b oe ( w ) a	p a d a h E b u ( w ) a
-padaiejaäq	p a d a ie j a ä q	p a d a i j a ' a '
-padiehoie(j)aqä	p a d ie h o ie ( j ) a qä	p a d i h o i ( j ) a ' a
+padaiejaäq	p a d a ie j a ä q	p a d a i y a ' a '
+padiehoie(j)aqä	p a d ie h o ie ( j ) a qä	p a d i h o i ( y ) a ' a
 padiehopie	p a d ie h o p ie	p a d i h o p i
 padiekaä	p a d ie k a ä	p a d i k a ' a
 padoedoie	p a d oe d o ie	p a d u d o i
@@ -1261,16 +1261,16 @@ paènoe	p a è n oe	p a E n u
 pahabieaäq	p a h a b ie a ä q	p a h a b i a ' a '
 pahaboe(w)ĕ	p a h a b oe ( w ) ĕ	p a h a b u ( w ) ė
 pa(ha)böhaq	p a ( h a ) b ö h a q	p a ( h a ) b u̇ h a '
-pahadodie(j)aäq	p a h a d o d ie ( j ) a ä q	p a h a d o d i ( j ) a ' a '
-pahadoho; pahadoho èkiedjaie(j)oe	p a h a d o h o ; # p a h a d o h o # è k ie dj a ie ( j ) oe	p a h a d o h o ; # p a h a d o h o # E k i j a i ( j ) u
+pahadodie(j)aäq	p a h a d o d ie ( j ) a ä q	p a h a d o d i ( y ) a ' a '
+pahadoho; pahadoho èkiedjaie(j)oe	p a h a d o h o ; # p a h a d o h o # è k ie dj a ie ( j ) oe	p a h a d o h o ; # p a h a d o h o # E k i j a i ( y ) u
 pahaèkoe	p a h a è k oe	p a h a E k u
-pahakè(j)aq	p a h a k è ( j ) a q	p a h a k E ( j ) a '
-pahakie(j)a	p a h a k ie ( j ) a	p a h a k i ( j ) a
+pahakè(j)aq	p a h a k è ( j ) a q	p a h a k E ( y ) a '
+pahakie(j)a	p a h a k ie ( j ) a	p a h a k i ( y ) a
 pahakoienanaq	p a h a k o ie n a n a q	p a h a k o i n a n a '
 pahaö	p a h a ö	p a h a ' o
 pahapèaq	p a h a p è a q	p a h a p E a '
 pahapoeè(q)	p a h a p oe è ( q )	p a h a p u E ( ' )
-pahjo	p a h j o	p a h j o
+pahjo	p a h j o	p a h y o
 pahodaie	p a h o d a ie	p a h o d a i
 pahoehoedoe	p a h oe h oe d oe	p a h u h u d u
 pahoemana	p a h oe m a n a	p a h u m a n a
@@ -1283,20 +1283,20 @@ pakahopa	p a k a h o p a	p a k a h o p a
 pakaö(w)aq	p a k a ö ( w ) a q	p a k a ' o ( w ) a '
 pakarahaq	p a k a r a h a q	p a k a r a h a '
 pakèho(w)oq	p a k è h o ( w ) o q	p a k E h o ( w ) o '
-pakè(j)aq	p a k è ( j ) a q	p a k E ( j ) a '
-pakèlie(j)a	p a k è l ie ( j ) a	p a k E l i ( j ) a
-pakie(j)oe	p a k ie ( j ) oe	p a k i ( j ) u
+pakè(j)aq	p a k è ( j ) a q	p a k E ( y ) a '
+pakèlie(j)a	p a k è l ie ( j ) a	p a k E l i ( y ) a
+pakie(j)oe	p a k ie ( j ) oe	p a k i ( y ) u
 pakiemaha	p a k ie m a h a	p a k i m a h a
 pakieno	p a k ie n o	p a k i n o
 pakieopo	p a k ie o p o	p a k i o p o
 pakoba	p a k o b a	p a k o b a
 pakoehè	p a k oe h è	p a k u h E
-pakoehie(j)aq	p a k oe h ie ( j ) a q	p a k u h i ( j ) a '
-pakoehö(j)aq	p a k oe h ö ( j ) a q	p a k u h u̇ ( j ) a '
+pakoehie(j)aq	p a k oe h ie ( j ) a q	p a k u h i ( y ) a '
+pakoehö(j)aq	p a k oe h ö ( j ) a q	p a k u h u̇ ( y ) a '
 pakoeienanaq	p a k oe ie n a n a q	p a k u i n a n a '
 pakoenaq	p a k oe n a q	p a k u n a '
 kèo pakoenaq aiekiedjaieboe	k è o # p a k oe n a q # a ie k ie dj a ie b oe	k E o # p a k u n a ' # a i k i j a i b u
-pakoenoejo	p a k oe n oe j o	p a k u n u j o
+pakoenoejo	p a k oe n oe j o	p a k u n u y o
 pakoeoe(w)aq	p a k oeoe ( w ) a q	p a k u ' u ( w ) a '
 pakoepèq	p a k oe p è q	p a k u p E '
 pakoe(w)aq	p a k oe ( w ) a q	p a k u ( w ) a '
@@ -1309,7 +1309,7 @@ pamèmèho	p a m è m è h o	p a m E m E h o
 pana(h)	p a n a ( h )	p a n a ( h )
 panako	p a n a k o	p a n a k o
 panakona	p a n a k o n a	p a n a k o n a
-kie(j)abaq panakona	k ie ( j ) a b a q # p a n a k o n a	k i ( j ) a b a ' # p a n a k o n a
+kie(j)abaq panakona	k ie ( j ) a b a q # p a n a k o n a	k i ( y ) a b a ' # p a n a k o n a
 panakonaäq	p a n a k o n a ä q	p a n a k o n a ' a '
 panaoe	p a n a oe	p a n a u
 panapa	p a n a p a	p a n a p a
@@ -1321,34 +1321,34 @@ paodèaq	p a o d è a q	p a o d E a '
 paoeho(q)	p a oe h o ( q )	p a u h o ( ' )
 paoe(w)a	p a oe ( w ) a	p a u ( w ) a
 paoe(w)aoe	p a oe ( w ) a oe	p a u ( w ) a u
-paopajaäq	p a o p a j a ä q	p a o p a j a ' a '
-paopèkie(j)aq	p a o p è k ie ( j ) a q	p a o p E k i ( j ) a '
+paopajaäq	p a o p a j a ä q	p a o p a y a ' a '
+paopèkie(j)aq	p a o p è k ie ( j ) a q	p a o p E k i ( y ) a '
 papa	p a p a	p a p a
 papĕrabie	p a p ĕ r a b ie	p a p ė r a b i
 papèa	p a p è a	p a p E a
 papèhodie	p a p è h o d ie	p a p E h o d i
 papoedoe	p a p oe d oe	p a p u d u
-paqjo	p a q j o	p a ' j o
+paqjo	p a q j o	p a ' y o
 parabie	p a r a b ie	p a r a b i
 parahoeie	p a r a h oe ie	p a r a h u i
 parako(w)a	p a r a k o ( w ) a	p a r a k o ( w ) a
-pariehoie(j)aqä	p a r ie h o ie ( j ) a qä	p a r i h o i ( j ) a ' a
+pariehoie(j)aqä	p a r ie h o ie ( j ) a qä	p a r i h o i ( y ) a ' a
 pariepoepoeh	p a r ie p oe p oe h	p a r i p u p u h
 parieqö	p a r ie q ö	p a r i ' u̇
 paroepèie	p a r oe p è ie	p a r u p E i
-paroähaja	p a r o ä h a j a	p a r o ' a h a j a
+paroähaja	p a r o ä h a j a	p a r o ' a h a y a
 parobiekie	p a r o b ie k ie	p a r o b i k i
 paroriepo	p a r o r ie p o	p a r o r i p o
 pè	p è	p E
 haboepè	h a b oe p è	h a b u p E
-pè(j)aha	p è ( j ) a h a	p E ( j ) a h a
+pè(j)aha	p è ( j ) a h a	p E ( y ) a h a
 pĕkaka	p ĕ k a k a	p ė k a k a
-pĕkakarie(j)aq	p ĕ k a k a r ie ( j ) a q	p ė k a k a r i ( j ) a '
+pĕkakarie(j)aq	p ĕ k a k a r ie ( j ) a q	p ė k a k a r i ( y ) a '
 pènjako	p è nj a k o	p E ñ a k o
-pènohie(j)o	p è n o h ie ( j ) o	p E n o h i ( j ) o
+pènohie(j)o	p è n o h ie ( j ) o	p E n o h i ( y ) o
 piehie	p ie h ie	p i h i
-pie(j)ako(w)èq	p ie ( j ) a k o ( w ) è q	p i ( j ) a k o ( w ) E '
-piekie(j)aq	p ie k ie ( j ) a q	p i k i ( j ) a '
+pie(j)ako(w)èq	p ie ( j ) a k o ( w ) è q	p i ( y ) a k o ( w ) E '
+piekie(j)aq	p ie k ie ( j ) a q	p i k i ( y ) a '
 piekopieko	p ie k o p ie k o	p i k o p i k o
 piekoöie	p ie k o ö ie	p i k o ' o i
 pienahaäq	p ie n a h a ä q	p i n a h a ' a '
@@ -1362,11 +1362,11 @@ poepoedoe	p oe p oe d oe	p u p u d u
 poeqä	p oe qä	p u ' a
 poerieho	p oe r ie h o	p u r i h o
 pohaie	p o h a ie	p o h a i
-pohoie(j)aoda	p o h o ie ( j ) a o d a	p o h o i ( j ) a o d a
-pöhöjaq	p ö h ö j a q	p u̇ h u̇ j a '
-pöhöjaq	p ö h ö j a q	p u̇ h u̇ j a '
+pohoie(j)aoda	p o h o ie ( j ) a o d a	p o h o i ( y ) a o d a
+pöhöjaq	p ö h ö j a q	p u̇ h u̇ y a '
+pöhöjaq	p ö h ö j a q	p u̇ h u̇ y a '
 poporo	p o p o r o	p o p o r o
-poöpèkie(j)aq	p o ö p è k ie ( j ) a q	p o ' o p E k i ( j ) a '
+poöpèkie(j)aq	p o ö p è k ie ( j ) a q	p o ' o p E k i ( y ) a '
 radjo	r a dj o	r a j o
 rapat	r a p a t	r a p a t
 taka	t a k a	t a k a
