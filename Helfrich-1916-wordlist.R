@@ -50,6 +50,41 @@ helfrich_wl <- helfrich_wl |>
 helfrich_wl |> 
   select(-matches("(variant$|variant_com|variant_ipa)")) |> 
   select(ID, page, entry, dutch, english, form, variant_ID, form_common_transcription, form_common_segments, form_ipa_segments, matches("crossref"), everything()) |> 
+  # here we deal with issue #5 https://github.com/engganolang/helfrich-1916-wordlist/issues/5 for splitting multiple forms
+  mutate(form_common_transcription = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                                             str_replace_all(form_common_transcription, "\\s", "_"),
+                                             form_common_transcription),
+         form_common_segments = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                                        str_replace_all(form_common_segments, "\\#", "_"),
+                                        form_common_segments),
+         form_ipa_segments = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                                        str_replace_all(form_ipa_segments, "\\#", "_"),
+                                        form_ipa_segments),
+         form = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                        str_replace_all(form, "\\s", "_"),
+                        form)) |> 
+  separate_longer_delim(cols = matches("(^form_?|^crossref)"), delim = ";") |> 
+  mutate(across(matches("(^form_?|^crossref)"), ~str_trim(., side = "both"))) |> 
+  mutate(across(matches("(^form_?|^crossref)"), ~str_replace_all(., "(^\\#\\s|\\s\\#$)", ""))) |> 
+  mutate(crossref_ID = if_else(str_detect(crossref_ID, "^w[0-9]"),
+                               str_replace_all(crossref_ID, "^w[0-9]_", ""),
+                               crossref_ID)) |> 
+  mutate(form_common_transcription = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                                             str_replace_all(form_common_transcription, "\\s", "_"),
+                                             form_common_transcription),
+         form_common_segments = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                                        str_replace_all(form_common_segments, "\\#", "_"),
+                                        form_common_segments),
+         form_ipa_segments = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                                     str_replace_all(form_ipa_segments, "\\#", "_"),
+                                     form_ipa_segments),
+         form = if_else(str_detect(form, "\\;", negate = TRUE) & str_detect(form, "\\s"),
+                        str_replace_all(form, "\\s", "_"),
+                        form)) |> 
+  mutate(dutch = str_replace_all(dutch, "([,;:?!])", " \\1 "),
+         english = str_replace_all(english, "([,;:?!])", " \\1 "),
+         dutch = str_replace_all(dutch, "\\s{2,}", " "),
+         english = str_replace_all(english, "\\s{2,}", " ")) |> 
   write_tsv("data/helfrich1916.tsv", na = "")
 
 # save the variant table
@@ -57,6 +92,34 @@ helfrich_wl |>
   select(FORM_ID = ID, matches("variant")) |> 
   filter(!is.na(variant)) |> 
   select(ID = variant_ID, everything()) |> 
+  # here we deal with issue #5 https://github.com/engganolang/helfrich-1916-wordlist/issues/5 for splitting multiple forms
+  mutate(variant_common_transcription = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                                             str_replace_all(variant_common_transcription, "\\s", "_"),
+                                             variant_common_transcription),
+         variant_common_segments = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                                        str_replace_all(variant_common_segments, "\\#", "_"),
+                                        variant_common_segments),
+         variant_ipa_segments = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                                     str_replace_all(variant_ipa_segments, "\\#", "_"),
+                                     variant_ipa_segments),
+         variant = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                        str_replace_all(variant, "\\s", "_"),
+                        variant)) |> 
+  separate_longer_delim(cols = matches("^variant_?"), delim = ";") |> 
+  mutate(across(matches("^variant_?"), ~str_trim(., side = "both"))) |> 
+  mutate(across(matches("^variant_?"), ~str_replace_all(., "(^\\#\\s|\\s\\#$)", ""))) |> 
+  mutate(variant_common_transcription = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                                             str_replace_all(variant_common_transcription, "\\s", "_"),
+                                             variant_common_transcription),
+         variant_common_segments = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                                        str_replace_all(variant_common_segments, "\\#", "_"),
+                                        variant_common_segments),
+         variant_ipa_segments = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                                     str_replace_all(variant_ipa_segments, "\\#", "_"),
+                                     variant_ipa_segments),
+         variant = if_else(str_detect(variant, "\\;", negate = TRUE) & str_detect(variant, "\\s"),
+                        str_replace_all(variant, "\\s", "_"),
+                        variant)) |> 
   write_tsv("data/helfrich1916_variant.tsv", na = "")
 
 

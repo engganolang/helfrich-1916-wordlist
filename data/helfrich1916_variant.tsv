@@ -1,13 +1,17 @@
 ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_ipa_segments
 16	2	aäfoe(w)a(q)	a'afu(w)a(')	a ' a f u ( w ) a ( ' )	a ʔ a f u ( w ) a ( ʔ )
 18	4	abaiekahaèq	abaikahaE'	a b a i k a h a E '	a b a i k a h a ɛ ʔ
-19	5	abako(w)a; abako(w)ĕ	abako(w)a; abako(w)ė	a b a k o ( w ) a ; # a b a k o ( w ) ė	a b a k o ( w ) a ; # a b a k o ( w ) ə
+19	5	abako(w)a	abako(w)a	a b a k o ( w ) a	a b a k o ( w ) a
+19	5	abako(w)ĕ	abako(w)ė	a b a k o ( w ) ė	a b a k o ( w ) ə
 460	8	wabèha	wabEha	w a b E h a	w a b ɛ h a
 43	12	arèq	arE'	a r E '	a r ɛ ʔ
 44	13	arie	ari	a r i	a r i
-46	14	arieba; aliebĕ	ariba; alibė	a r i b a ; # a l i b ė	a r i b a ; # a l i b ə
-45	15	arieba hie adoe(w)a; aliebĕ hie adoe(w)ĕ	ariba hi adu(w)a; alibė hi adu(w)ė	a r i b a # h i # a d u ( w ) a ; # a l i b ė # h i # a d u ( w ) ė	a r i b a # h i # a d u ( w ) a ; # a l i b ə # h i # a d u ( w ) ə
-50	17	aroe(w)a; adoe(w)ĕ	aru(w)a; adu(w)ė	a r u ( w ) a ; # a d u ( w ) ė	a r u ( w ) a ; # a d u ( w ) ə
+46	14	arieba	ariba	a r i b a	a r i b a
+46	14	aliebĕ	alibė	a l i b ė	a l i b ə
+45	15	arieba_hie_adoe(w)a	ariba_hi_adu(w)a	a r i b a _ h i _ a d u ( w ) a	a r i b a _ h i _ a d u ( w ) a
+45	15	aliebĕ_hie_adoe(w)ĕ	alibė_hi_adu(w)ė	a l i b ė _ h i _ a d u ( w ) ė	a l i b ə _ h i _ a d u ( w ) ə
+50	17	aroe(w)a	aru(w)a	a r u ( w ) a	a r u ( w ) a
+50	17	adoe(w)ĕ	adu(w)ė	a d u ( w ) ė	a d u ( w ) ə
 25	29	aèkoie	aEkoi	a E k o i	a ɛ k o i
 26	30	aèkoie(j)aq	aEkoi(y)a'	a E k o i ( y ) a '	a ɛ k o i ( j ) a ʔ
 31	32	akieäkienĕ	aki'akinė	a k i ' a k i n ė	a k i ʔ a k i n ə
@@ -16,10 +20,14 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 29	37	akènaie	akEnai	a k E n a i	a k ɛ n a i
 34	39	akoroe	akoru	a k o r u	a k o r u
 73	41	èahèaqja	EahEa'ya	E a h E a ' y a	ɛ a h ɛ a ʔ j a
-36	44	amoeno; moeno; kĕno; koeno	amuno; muno; kėno; kuno	a m u n o ; # m u n o ; # k ė n o ; # k u n o	a m u n o ; # m u n o ; # k ə n o ; # k u n o
+36	44	amoeno	amuno	a m u n o	a m u n o
+36	44	moeno	muno	m u n o	m u n o
+36	44	kĕno	kėno	k ė n o	k ə n o
+36	44	koeno	kuno	k u n o	k u n o
 35	46	amoeafĕ	amuafė	a m u a f ė	a m u a f ə
 37	47	amoho	amoho	a m o h o	a m o h o
-143	49	èkiena; èkienĕ	Ekina; Ekinė	E k i n a ; # E k i n ė	ɛ k i n a ; # ɛ k i n ə
+143	49	èkiena	Ekina	E k i n a	ɛ k i n a
+143	49	èkienĕ	Ekinė	E k i n ė	ɛ k i n ə
 462	51	waniemaie	wanimai	w a n i m a i	w a n i m a i
 40	54	anoqoe	ano'u	a n o ' u	a n o ʔ u
 39	58	anoqè(j)ĕ	ano'E(y)ė	a n o ' E ( y ) ė	a n o ʔ ɛ ( j ) ə
@@ -27,14 +35,18 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 10	61	a(o)fa	a(o)fa	a ( o ) f a	a ( o ) f a
 14	62	a(o)fahiea(o)fa	a(o)fahia(o)fa	a ( o ) f a h i a ( o ) f a	a ( o ) f a h i a ( o ) f a
 52	69	aroekoe(w)o	aruku(w)o	a r u k u ( w ) o	a r u k u ( w ) o
-53	70	aroekoe(w)o è(a)karoba	aruku(w)o E(a)karoba	a r u k u ( w ) o # E ( a ) k a r o b a	a r u k u ( w ) o # ɛ ( a ) k a r o b a
+53	70	aroekoe(w)o_è(a)karoba	aruku(w)o_E(a)karoba	a r u k u ( w ) o _ E ( a ) k a r o b a	a r u k u ( w ) o _ ɛ ( a ) k a r o b a
 54	78	bahabaiebĕ	bahabaibė	b a h a b a i b ė	b a h a b a i b ə
 55	80	baöadie	ba'oadi	b a ' o a d i	b a ʔ o a d i
 56	84	bèdie	bEdi	b E d i	b ɛ d i
 58	92	daiekahadie(j)ĕ	daikahadi(y)ė	d a i k a h a d i ( y ) ė	d a i k a h a d i ( j ) ə
 59	96	die(j)ĕ	di(y)ė	d i ( y ) ė	d i ( j ) ə
-184	105	èoä(h)ko; èaä(h)kĕ; èoähkĕ	Eo'a(h)ko; Ea'a(h)kė; Eo'ahkė	E o ' a ( h ) k o ; # E a ' a ( h ) k ė ; # E o ' a h k ė	ɛ o ʔ a ( h ) k o ; # ɛ a ʔ a ( h ) k ə ; # ɛ o ʔ a h k ə
-416	106	moä(h)ko; maä(h)kĕ; moä(h)kĕ	mo'a(h)ko; ma'a(h)kė; mo'a(h)kė	m o ' a ( h ) k o ; # m a ' a ( h ) k ė ; # m o ' a ( h ) k ė	m o ʔ a ( h ) k o ; # m a ʔ a ( h ) k ə ; # m o ʔ a ( h ) k ə
+184	105	èoä(h)ko	Eo'a(h)ko	E o ' a ( h ) k o	ɛ o ʔ a ( h ) k o
+184	105	èaä(h)kĕ	Ea'a(h)kė	E a ' a ( h ) k ė	ɛ a ʔ a ( h ) k ə
+184	105	èoähkĕ	Eo'ahkė	E o ' a h k ė	ɛ o ʔ a h k ə
+416	106	moä(h)ko	mo'a(h)ko	m o ' a ( h ) k o	m o ʔ a ( h ) k o
+416	106	maä(h)kĕ	ma'a(h)kė	m a ' a ( h ) k ė	m a ʔ a ( h ) k ə
+416	106	moä(h)kĕ	mo'a(h)kė	m o ' a ( h ) k ė	m o ʔ a ( h ) k ə
 65	114	èabarie(j)o	Eabari(y)o	E a b a r i ( y ) o	ɛ a b a r i ( j ) o
 64	115	èabaoekietaie	Eabaukitai	E a b a u k i t a i	ɛ a b a u k i t a i
 72	124	èahabaoedĕ	Eahabaudė	E a h a b a u d ė	ɛ a h a b a u d ə
@@ -52,7 +64,7 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 66	183	èafala	Eafala	E a f a l a	ɛ a f a l a
 69	184	èafĕ	Eafė	E a f ė	ɛ a f ə
 70	185	èafoe	Eafu	E a f u	ɛ a f u
-71	186	èafoe èkoe(w)ĕ	Eafu Eku(w)ė	E a f u # E k u ( w ) ė	ɛ a f u # ɛ k u ( w ) ə
+71	186	èafoe_èkoe(w)ĕ	Eafu_Eku(w)ė	E a f u _ E k u ( w ) ė	ɛ a f u _ ɛ k u ( w ) ə
 172	193	èmanè	EmanE	E m a n E	ɛ m a n ɛ
 9	195	(oe)kiaroboe	(u)kiarobu	( u ) k i a r o b u	( u ) k i a r o b u
 27	198	afĕ	afė	a f ė	a f ə
@@ -60,13 +72,15 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 82	201	èaraä(q)ko(w)ah	Eara'a(')ko(w)ah	E a r a ' a ( ' ) k o ( w ) a h	ɛ a r a ʔ a ( ʔ ) k o ( w ) a h
 78	205	èalopa	Ealopa	E a l o p a	ɛ a l o p a
 83	207	èatara	Eatara	E a t a r a	ɛ a t a r a
-84	215	èbaka: èoewĕ	Ebaka: Euwė	E b a k a : # E u w ė	ɛ b a k a : # ɛ u w ə
+84	215	èbaka:_èoewĕ	Ebaka:_Euwė	E b a k a : _ E u w ė	ɛ b a k a : _ ɛ u w ə
 391	217	kietaie	kitai	k i t a i	k i t a i
 85	226	èboeèparaqwĕ	EbuEpara'wė	E b u E p a r a ' w ė	ɛ b u ɛ p a r a ʔ w ə
 86	228	èboqaboqĕ	Ebo'abo'ė	E b o ' a b o ' ė	ɛ b o ʔ a b o ʔ ə
 160	229	èlaba	Elaba	E l a b a	ɛ l a b a
-230	230	ètaboeho; ètafoehĕ	Etabuho; Etafuhė	E t a b u h o ; # E t a f u h ė	ɛ t a b u h o ; # ɛ t a f u h ə
-231	231	ètaboeho; ètafoehĕ	Etabuho; Etafuhė	E t a b u h o ; # E t a f u h ė	ɛ t a b u h o ; # ɛ t a f u h ə
+230	230	ètaboeho	Etabuho	E t a b u h o	ɛ t a b u h o
+230	230	ètafoehĕ	Etafuhė	E t a f u h ė	ɛ t a f u h ə
+231	231	ètaboeho	Etabuho	E t a b u h o	ɛ t a b u h o
+231	231	ètafoehĕ	Etafuhė	E t a f u h ė	ɛ t a f u h ə
 144	237	èkietaie	Ekitai	E k i t a i	ɛ k i t a i
 193	238	èoeloe	Eulu	E u l u	ɛ u l u
 194	241	èoeloe	Eulu	E u l u	ɛ u l u
@@ -79,18 +93,22 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 165	250	èlie(j)ĕ	Eli(y)ė	E l i ( y ) ė	ɛ l i ( j ) ə
 166	251	èlieie(j)ĕ	Elii(y)ė	E l i i ( y ) ė	ɛ l i i ( j ) ə
 167	257	èloboe	Elobu	E l o b u	ɛ l o b u
-168	258	èloboe kanapoe(w)a	Elobu kanapu(w)a	E l o b u # k a n a p u ( w ) a	ɛ l o b u # k a n a p u ( w ) a
+168	258	èloboe_kanapoe(w)a	Elobu_kanapu(w)a	E l o b u _ k a n a p u ( w ) a	ɛ l o b u _ k a n a p u ( w ) a
 90	259	èdorie	Edori	E d o r i	ɛ d o r i
 228	260	èroehoekie(j)aq	Eruhuki(y)a'	E r u h u k i ( y ) a '	ɛ r u h u k i ( j ) a ʔ
 183	261	ènohaie	Enohai	E n o h a i	ɛ n o h a i
-88	262	èdĕhoie; èdjĕhoie	Edėhoi; Ejėhoi	E d ė h o i ; # E j ė h o i	ɛ d ə h o i ; # ɛ d͡ʒ ə h o i
-342	263	kiedĕhoie; kiedjĕhoie	kidėhoi; kijėhoi	k i d ė h o i ; # k i j ė h o i	k i d ə h o i ; # k i d͡ʒ ə h o i
+88	262	èdĕhoie	Edėhoi	E d ė h o i	ɛ d ə h o i
+88	262	èdjĕhoie	Ejėhoi	E j ė h o i	ɛ d͡ʒ ə h o i
+342	263	kiedĕhoie	kidėhoi	k i d ė h o i	k i d ə h o i
+342	263	kiedjĕhoie	kijėhoi	k i j ė h o i	k i d͡ʒ ə h o i
 170	264	èlolèlolè	ElolElolE	E l o l E l o l E	ɛ l o l ɛ l o l ɛ
-280	267	iedopo; ètofo; ietofo	idopo; Etofo; itofo	i d o p o ; # E t o f o ; # i t o f o	i d o p o ; # ɛ t o f o ; # i t o f o
+280	267	iedopo	idopo	i d o p o	i d o p o
+280	267	ètofo	Etofo	E t o f o	ɛ t o f o
+280	267	ietofo	itofo	i t o f o	i t o f o
 229	268	èroforofo	Eroforofo	E r o f o r o f o	ɛ r o f o r o f o
 171	269	èloro	Eloro	E l o r o	ɛ l o r o
 93	272	èèlako	EElako	E E l a k o	ɛ ɛ l a k o
-95	284	èènono: oefĕ	EEnono: ufė	E E n o n o : # u f ė	ɛ ɛ n o n o : # u f ə
+95	284	èènono:_oefĕ	EEnono:_ufė	E E n o n o : _ u f ė	ɛ ɛ n o n o : _ u f ə
 430	285	oeèfĕ	uEfė	u E f ė	u ɛ f ə
 96	286	èèolie	EEoli	E E o l i	ɛ ɛ o l i
 97	287	èèolieoekoewĕ	EEoliukuwė	E E o l i u k u w ė	ɛ ɛ o l i u k u w ə
@@ -106,32 +124,37 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 123	317	èhöarie	Ehu̇ari	E h u̇ a r i	ɛ h ɨ a r i
 411	318	mahöarie	mahu̇ari	m a h u̇ a r i	m a h ɨ a r i
 122	320	èho(w)afĕ	Eho(w)afė	E h o ( w ) a f ė	ɛ h o ( w ) a f ə
-91	335	èèdjie; èietjie	EEji; Eici	E E j i ; # E i c i	ɛ ɛ d͡ʒ i ; # ɛ i t͡ʃ i
+91	335	èèdjie	EEji	E E j i	ɛ ɛ d͡ʒ i
+91	335	èietjie	Eici	E i c i	ɛ i t͡ʃ i
 24	336	aèdjie	aEji	a E j i	a ɛ d͡ʒ i
 126	339	èieieoeloe	Eiiulu	E i i u l u	ɛ i i u l u
 124	342	èie(j)obĕ	Ei(y)obė	E i ( y ) o b ė	ɛ i ( j ) o b ə
 125	347	èiefĕ	Eifė	E i f ė	ɛ i f ə
 38	356	aniemaie	animai	a n i m a i	a n i m a i
 277	358	ie(j)araq	i(y)ara'	i ( y ) a r a '	i ( j ) a r a ʔ
-278	359	ie(j)araq noeha	i(y)ara' nuha	i ( y ) a r a ' # n u h a	i ( j ) a r a ʔ # n u h a
+278	359	ie(j)araq_noeha	i(y)ara'_nuha	i ( y ) a r a ' _ n u h a	i ( j ) a r a ʔ _ n u h a
 135	369	èkaraha(q)	Ekaraha(')	E k a r a h a ( ' )	ɛ k a r a h a ( ʔ )
 136	370	èkarieorie	Ekariori	E k a r i o r i	ɛ k a r i o r i
 128	371	èkadieofè	EkadiofE	E k a d i o f E	ɛ k a d i o f ɛ
 2	377	(è)kaèq	(E)kaE'	( E ) k a E '	( ɛ ) k a ɛ ʔ
-129	388	èkaie(oe)lahoe(hoe); èkaèdaho; èkaèlaho	Ekai(u)lahu(hu); EkaEdaho; EkaElaho	E k a i ( u ) l a h u ( h u ) ; # E k a E d a h o ; # E k a E l a h o	ɛ k a i ( u ) l a h u ( h u ) ; # ɛ k a ɛ d a h o ; # ɛ k a ɛ l a h o
+129	388	èkaie(oe)lahoe(hoe)	Ekai(u)lahu(hu)	E k a i ( u ) l a h u ( h u )	ɛ k a i ( u ) l a h u ( h u )
+129	388	èkaèdaho	EkaEdaho	E k a E d a h o	ɛ k a ɛ d a h o
+129	388	èkaèlaho	EkaElaho	E k a E l a h o	ɛ k a ɛ l a h o
 130	389	èkajoqfèdjie	Ekayo'fEji	E k a y o ' f E j i	ɛ k a j o ʔ f ɛ d͡ʒ i
 131	390	èkakorèie(j)ĕ	EkakorEi(y)ė	E k a k o r E i ( y ) ė	ɛ k a k o r ɛ i ( j ) ə
 127	398	èk(a)oeqfanoe	Ek(a)u'fanu	E k ( a ) u ' f a n u	ɛ k ( a ) u ʔ f a n u
 134	399	èkaoe(w)ĕ	Ekau(w)ė	E k a u ( w ) ė	ɛ k a u ( w ) ə
-139	405	èkĕlèpè; èkalèpè	EkėlEpE; EkalEpE	E k ė l E p E ; # E k a l E p E	ɛ k ə l ɛ p ɛ ; # ɛ k a l ɛ p ɛ
+139	405	èkĕlèpè	EkėlEpE	E k ė l E p E	ɛ k ə l ɛ p ɛ
+139	405	èkalèpè	EkalEpE	E k a l E p E	ɛ k a l ɛ p ɛ
 132	407	èkaliehĕ	Ekalihė	E k a l i h ė	ɛ k a l i ç ə
-133	408	èkaliehĕ oe(w)afĕ	Ekalihė u(w)afė	E k a l i h ė # u ( w ) a f ė	ɛ k a l i ç ə # u ( w ) a f ə
+133	408	èkaliehĕ_oe(w)afĕ	Ekalihė_u(w)afė	E k a l i h ė _ u ( w ) a f ė	ɛ k a l i ç ə _ u ( w ) a f ə
 137	411	èkèèfa	EkEEfa	E k E E f a	ɛ k ɛ ɛ f a
 344	412	kieèèfa	kiEEfa	k i E E f a	k i ɛ ɛ f a
 140	422	èkieafĕ	Ekiafė	E k i a f ė	ɛ k i a f ə
 146	423	èkietapè(j)a	EkitapE(y)a	E k i t a p E ( y ) a	ɛ k i t a p ɛ ( j ) a
 147	424	èkietiebèie(j)oq	EkitibEi(y)o'	E k i t i b E i ( y ) o '	ɛ k i t i b ɛ i ( j ) o ʔ
-145	425	èkietaie; èkiedaie	Ekitai; Ekidai	E k i t a i ; # E k i d a i	ɛ k i t a i ; # ɛ k i d a i
+145	425	èkietaie	Ekitai	E k i t a i	ɛ k i t a i
+145	425	èkiedaie	Ekidai	E k i d a i	ɛ k i d a i
 138	435	èkèhèö(j)a	EkEhEu̇(y)a	E k E h E u̇ ( y ) a	ɛ k ɛ h ɛ ɨ ( j ) a
 142	438	èkieie(j)ĕ	Ekii(y)ė	E k i i ( y ) ė	ɛ k i i ( j ) ə
 157	455	èkorie(j)o	Ekori(y)o	E k o r i ( y ) o	ɛ k o r i ( j ) o
@@ -154,13 +177,13 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 176	507	èmènahoe(w)a	EmEnahu(w)a	E m E n a h u ( w ) a	ɛ m ɛ n a h u ( w ) a
 175	509	èmèaö	EmEa'o	E m E a ' o	ɛ m ɛ a ʔ o
 177	514	èmoöie(j)ĕ	Emo'oi(y)ė	E m o ' o i ( y ) ė	ɛ m o ʔ o i ( j ) ə
-178	516	ènaè(na): oe(w)afĕ	EnaE(na): u(w)afė	E n a E ( n a ) : # u ( w ) a f ė	ɛ n a ɛ ( n a ) : # u ( w ) a f ə
+178	516	ènaè(na):_oe(w)afĕ	EnaE(na):_u(w)afė	E n a E ( n a ) : _ u ( w ) a f ė	ɛ n a ɛ ( n a ) : _ u ( w ) a f ə
 181	520	ènapĕ	Enapė	E n a p ė	ɛ n a p ə
 179	521	ènafienafie	Enafinafi	E n a f i n a f i	ɛ n a f i n a f i
 180	522	ènafienie	Enafini	E n a f i n i	ɛ n a f i n i
 182	530	ènoĕ	Enoė	E n o ė	ɛ n o ə
 205	537	èorie	Eori	E o r i	ɛ o r i
-42	538	apieha èoriedie(j)ĕ	apiha Eoridi(y)ė	a p i h a # E o r i d i ( y ) ė	a p i ç a # ɛ o r i d i ( j ) ə
+42	538	apieha_èoriedie(j)ĕ	apiha_Eoridi(y)ė	a p i h a _ E o r i d i ( y ) ė	a p i ç a _ ɛ o r i d i ( j ) ə
 206	539	èorieaäq	Eoria'a'	E o r i a ' a '	ɛ o r i a ʔ a ʔ
 57	540	borieaäq	boria'a'	b o r i a ' a '	b o r i a ʔ a ʔ
 315	541	kahohoriaäq	kahohoria'a'	k a h o h o r i a ' a '	k a h o h o r i a ʔ a ʔ
@@ -168,12 +191,12 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 208	546	èoroe	Eoru	E o r u	ɛ o r u
 209	547	èorohèie	EorohEi	E o r o h E i	ɛ o r o h ɛ i
 188	548	èoebĕ	Eubė	E u b ė	ɛ u b ə
-189	549	èoebĕ: èkaèn	Eubė: EkaEn	E u b ė : # E k a E n	ɛ u b ə : # ɛ k a ɛ n
+189	549	èoebĕ:_èkaèn	Eubė:_EkaEn	E u b ė : _ E k a E n	ɛ u b ə : _ ɛ k a ɛ n
 141	550	èkiearoboe	Ekiarobu	E k i a r o b u	ɛ k i a r o b u
 185	551	èobo	Eobo	E o b o	ɛ o b o
 334	553	kèèèfĕ	kEEEfė	k E E E f ė	k ɛ ɛ ɛ f ə
 195	556	èoeloe	Eulu	E u l u	ɛ u l u
-196	557	èoeloe bèlo(w)a	Eulu bElo(w)a	E u l u # b E l o ( w ) a	ɛ u l u # b ɛ l o ( w ) a
+196	557	èoeloe_bèlo(w)a	Eulu_bElo(w)a	E u l u _ b E l o ( w ) a	ɛ u l u _ b ɛ l o ( w ) a
 192	563	èoekoeriepo	Eukuripo	E u k u r i p o	ɛ u k u r i p o
 197	569	èoemĕ	Eumė	E u m ė	ɛ u m ə
 198	573	èoeoe(w)afĕ	Eu'u(w)afė	E u ' u ( w ) a f ė	ɛ u ʔ u ( w ) a f ə
@@ -181,8 +204,12 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 199	576	èoepoeie(j)ĕ	Eupui(y)ė	E u p u i ( y ) ė	ɛ u p u i ( j ) ə
 200	577	èoepoeqoe(w)ĕ	Eupu'u(w)ė	E u p u ' u ( w ) ė	ɛ u p u ʔ u ( w ) ə
 191	578	èoefoe(w)a	Eufu(w)a	E u f u ( w ) a	ɛ u f u ( w ) a
-186	580	èoe(w)aè; èè(w)aie; èè(w)aè	Eu(w)aE; EE(w)ai; EE(w)aE	E u ( w ) a E ; # E E ( w ) a i ; # E E ( w ) a E	ɛ u ( w ) a ɛ ; # ɛ ɛ ( w ) a i ; # ɛ ɛ ( w ) a ɛ
-187	582	èoe(w)afĕ; èè(w)apo; èèwafĕ	Eu(w)afė; EE(w)apo; EEwafė	E u ( w ) a f ė ; # E E ( w ) a p o ; # E E w a f ė	ɛ u ( w ) a f ə ; # ɛ ɛ ( w ) a p o ; # ɛ ɛ w a f ə
+186	580	èoe(w)aè	Eu(w)aE	E u ( w ) a E	ɛ u ( w ) a ɛ
+186	580	èè(w)aie	EE(w)ai	E E ( w ) a i	ɛ ɛ ( w ) a i
+186	580	èè(w)aè	EE(w)aE	E E ( w ) a E	ɛ ɛ ( w ) a ɛ
+187	582	èoe(w)afĕ	Eu(w)afė	E u ( w ) a f ė	ɛ u ( w ) a f ə
+187	582	èè(w)apo	EE(w)apo	E E ( w ) a p o	ɛ ɛ ( w ) a p o
+187	582	èèwafĕ	EEwafė	E E w a f ė	ɛ ɛ w a f ə
 63	584	è(o)horaoekèèfa	E(o)horaukEEfa	E ( o ) h o r a u k E E f a	ɛ ( o ) h o r a u k ɛ ɛ f a
 202	586	èokahaĕ	Eokahaė	E o k a h a ė	ɛ o k a h a ə
 203	592	èokoehèoeloe	EokuhEulu	E o k u h E u l u	ɛ o k u h ɛ u l u
@@ -193,13 +220,16 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 210	627	èpahoahoäq	Epahoaho'a'	E p a h o a h o ' a '	ɛ p a h o a h o ʔ a ʔ
 99	633	èfakoehè	EfakuhE	E f a k u h E	ɛ f a k u h ɛ
 211	635	èpak(a)(w)ĕ	Epak(a)(w)ė	E p a k ( a ) ( w ) ė	ɛ p a k ( a ) ( w ) ə
-100	636	èfalè; èparè	EfalE; EparE	E f a l E ; # E p a r E	ɛ f a l ɛ ; # ɛ p a r ɛ
+100	636	èfalè	EfalE	E f a l E	ɛ f a l ɛ
+100	636	èparè	EparE	E p a r E	ɛ p a r ɛ
 101	638	èfanoe	Efanu	E f a n u	ɛ f a n u
-212	640	èpanĕma; èfanĕma	Epanėma; Efanėma	E p a n ė m a ; # E f a n ė m a	ɛ p a n ə m a ; # ɛ f a n ə m a
+212	640	èpanĕma	Epanėma	E p a n ė m a	ɛ p a n ə m a
+212	640	èfanĕma	Efanėma	E f a n ė m a	ɛ f a n ə m a
 103	642	èfaofĕ	Efaofė	E f a o f ė	ɛ f a o f ə
 104	643	èfaoqöqaie	Efao'u̇'ai	E f a o ' u̇ ' a i	ɛ f a o ʔ ɨ ʔ a i
 105	645	èfèa	EfEa	E f E a	ɛ f ɛ a
-213	649	èpèdoe(w)a(ö); èfèlo(w)a(ö)	EpEdu(w)a('o); EfElo(w)a('o)	E p E d u ( w ) a ( ' o ) ; # E f E l o ( w ) a ( ' o )	ɛ p ɛ d u ( w ) a ( ʔ o ) ; # ɛ f ɛ l o ( w ) a ( ʔ o )
+213	649	èpèdoe(w)a(ö)	EpEdu(w)a('o)	E p E d u ( w ) a ( ' o )	ɛ p ɛ d u ( w ) a ( ʔ o )
+213	649	èfèlo(w)a(ö)	EfElo(w)a('o)	E f E l o ( w ) a ( ' o )	ɛ f ɛ l o ( w ) a ( ʔ o )
 106	650	èfèhè	EfEhE	E f E h E	ɛ f ɛ h ɛ
 214	654	èpĕrhaoedie	Epėrhaudi	E p ė r h a u d i	ɛ p ə r h a u d i
 215	657	èpieaoe(w)afĕ	Epiau(w)afė	E p i a u ( w ) a f ė	ɛ p i a u ( w ) a f ə
@@ -211,11 +241,11 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 60	669	epoeaoe	epuau	e p u a u	e p u a u
 220	671	èpoeroe	Epuru	E p u r u	ɛ p u r u
 112	674	èfoekĕ	Efukė	E f u k ė	ɛ f u k ə
-219	678	èpoe(oe)qoe: oe(w)afĕ	Epu(u)'u: u(w)afė	E p u ( u ) ' u : # u ( w ) a f ė	ɛ p u ( u ) ʔ u : # u ( w ) a f ə
+219	678	èpoe(oe)qoe:_oe(w)afĕ	Epu(u)'u:_u(w)afė	E p u ( u ) ' u : _ u ( w ) a f ė	ɛ p u ( u ) ʔ u : _ u ( w ) a f ə
 221	680	èpoeroeroe(ie)	Epururu(i)	E p u r u r u ( i )	ɛ p u r u r u ( i )
-223	681	èpoeroeroe(ie): èoeloe	Epururu(i): Eulu	E p u r u r u ( i ) : # E u l u	ɛ p u r u r u ( i ) : # ɛ u l u
+223	681	èpoeroeroe(ie):_èoeloe	Epururu(i):_Eulu	E p u r u r u ( i ) : _ E u l u	ɛ p u r u r u ( i ) : _ ɛ u l u
 222	683	èpoeroeroe(ie)	Epururu(i)	E p u r u r u ( i )	ɛ p u r u r u ( i )
-224	684	èpoeroeroe(ie): waniemaie	Epururu(i): wanimai	E p u r u r u ( i ) : # w a n i m a i	ɛ p u r u r u ( i ) : # w a n i m a i
+224	684	èpoeroeroe(ie):_waniemaie	Epururu(i):_wanimai	E p u r u r u ( i ) : _ w a n i m a i	ɛ p u r u r u ( i ) : _ w a n i m a i
 437	686	oekèoq	ukEo'	u k E o '	u k ɛ o ʔ
 217	687	èpoe(ah)ha	Epu(ah)ha	E p u ( a h ) h a	ɛ p u ( a h ) h a
 111	688	èfo(h)	Efo(h)	E f o ( h )	ɛ f o ( h )
@@ -239,8 +269,10 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 279	767	iedjo	ijo	i j o	i d͡ʒ o
 287	772	kaä(ä)ou(w)ĕ	ka'a('a)ou(w)ė	k a ' a ( ' a ) o u ( w ) ė	k a ʔ a ( ʔ a ) o u ( w ) ə
 295	773	kaärahĕaie	ka'arahėai	k a ' a r a h ė a i	k a ʔ a r a h ə a i
-288	775	kaädoie(j)ĕ; kaäroie(j)ĕ	ka'adoi(y)ė; ka'aroi(y)ė	k a ' a d o i ( y ) ė ; # k a ' a r o i ( y ) ė	k a ʔ a d o i ( j ) ə ; # k a ʔ a r o i ( j ) ə
-290	784	kaäkènè; kakanie(q)	ka'akEnE; kakani(')	k a ' a k E n E ; # k a k a n i ( ' )	k a ʔ a k ɛ n ɛ ; # k a k a n i ( ʔ )
+288	775	kaädoie(j)ĕ	ka'adoi(y)ė	k a ' a d o i ( y ) ė	k a ʔ a d o i ( j ) ə
+288	775	kaäroie(j)ĕ	ka'aroi(y)ė	k a ' a r o i ( y ) ė	k a ʔ a r o i ( j ) ə
+290	784	kaäkènè	ka'akEnE	k a ' a k E n E	k a ʔ a k ɛ n ɛ
+290	784	kakanie(q)	kakani(')	k a k a n i ( ' )	k a k a n i ( ʔ )
 291	785	kaäkieniefĕ	ka'akinifė	k a ' a k i n i f ė	k a ʔ a k i n i f ə
 293	791	kaäpĕaäaq	ka'apėa'aa'	k a ' a p ė a ' a a '	k a ʔ a p ə a ʔ a a ʔ
 289	792	kaäfoho	ka'afoho	k a ' a f o h o	k a ʔ a f o h o
@@ -253,7 +285,7 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 314	825	kahoho	kahoho	k a h o h o	k a h o h o
 308	828	kahaienoeafĕ	kahainuafė	k a h a i n u a f ė	k a h a i n u a f ə
 309	831	kahakoudĕ	kahakoudė	k a h a k o u d ė	k a h a k o u d ə
-310	833	kahao: èmanè	kahao: EmanE	k a h a o : # E m a n E	k a h a o : # ɛ m a n ɛ
+310	833	kahao:_èmanè	kahao:_EmanE	k a h a o : _ E m a n E	k a h a o : _ ɛ m a n ɛ
 311	836	kahaokĕ	kahaokė	k a h a o k ė	k a h a o k ə
 306	837	kahafaq	kahafa'	k a h a f a '	k a h a f a ʔ
 307	838	kahafie	kahafi	k a h a f i	k a h a f i
@@ -273,7 +305,7 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 292	917	kaäöbo	ka'au̇bo	k a ' a u̇ b o	k a ʔ a ɨ b o
 327	918	kaoöèèdjie	kao'oEEji	k a o ' o E E j i	k a o ʔ o ɛ ɛ d͡ʒ i
 300	921	kafal	kafal	k a f a l	k a f a l
-301	922	kafàl afi	kafal afi	k a f a l # a f i	k a f a l # a f i
+301	922	kafàl_afi	kafal_afi	k a f a l _ a f i	k a f a l _ a f i
 302	924	kafĕrafĕraba	kafėrafėraba	k a f ė r a f ė r a b a	k a f ə r a f ə r a b a
 303	928	kafoekĕ	kafukė	k a f u k ė	k a f u k ə
 304	931	kafofo	kafofo	k a f o f o	k a f o f o
@@ -281,20 +313,23 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 318	938	kaliepoliepo	kalipolipo	k a l i p o l i p o	k a l i p o l i p o
 329	940	karohajĕ	karohayė	k a r o h a y ė	k a r o h a j ə
 335	952	kèhorojo	kEhoroyo	k E h o r o y o	k ɛ h o r o j o
-8	962	(è)kiadoboe; (è)kiaroboe	(E)kiadobu; (E)kiarobu	( E ) k i a d o b u ; # ( E ) k i a r o b u	( ɛ ) k i a d o b u ; # ( ɛ ) k i a r o b u
+8	962	(è)kiadoboe	(E)kiadobu	( E ) k i a d o b u	( ɛ ) k i a d o b u
+8	962	(è)kiaroboe	(E)kiarobu	( E ) k i a r o b u	( ɛ ) k i a r o b u
 340	968	kiebèrieka	kibErika	k i b E r i k a	k i b ɛ r i k a
 390	971	kietahoho	kitahoho	k i t a h o h o	k i t a h o h o
 389	972	kietahaq	kitaha'	k i t a h a '	k i t a h a ʔ
-387	977	kierèdèjaq; kèdèdè(j)aq; kèrèdè(j)aq	kirEdEya'; kEdEdE(y)a'; kErEdE(y)a'	k i r E d E y a ' ; # k E d E d E ( y ) a ' ; # k E r E d E ( y ) a '	k i r ɛ d ɛ j a ʔ ; # k ɛ d ɛ d ɛ ( j ) a ʔ ; # k ɛ r ɛ d ɛ ( j ) a ʔ
+387	977	kierèdèjaq	kirEdEya'	k i r E d E y a '	k i r ɛ d ɛ j a ʔ
+387	977	kèdèdè(j)aq	kEdEdE(y)a'	k E d E d E ( y ) a '	k ɛ d ɛ d ɛ ( j ) a ʔ
+387	977	kèrèdè(j)aq	kErEdE(y)a'	k E r E d E ( y ) a '	k ɛ r ɛ d ɛ ( j ) a ʔ
 341	985	kiedaieie(j)aq	kidaii(y)a'	k i d a i i ( y ) a '	k i d a i i ( j ) a ʔ
 392	990	kieto	kito	k i t o	k i t o
 388	991	kierobieka	kirobika	k i r o b i k a	k i r o b i k a
-343	993	kiedodo èdjie	kidodo Eji	k i d o d o # E j i	k i d o d o # ɛ d͡ʒ i
+343	993	kiedodo_èdjie	kidodo_Eji	k i d o d o _ E j i	k i d o d o _ ɛ d͡ʒ i
 366	1000	kiehiema(na)èorie	kihima(na)Eori	k i h i m a ( n a ) E o r i	k i ç i m a ( n a ) ɛ o r i
 367	1005	kieie(j)oèraha	kii(y)uraha	k i i ( y ) u r a h a	k i i ( j ) u r a h a
 368	1006	kieiefĕ	kiifė	k i i f ė	k i i f ə
 330	1009	kè(j)abaq	kE(y)aba'	k E ( y ) a b a '	k ɛ ( j ) a b a ʔ
-332	1010	kè(j)abaq iekèo	kE(y)aba' ikEo	k E ( y ) a b a ' # i k E o	k ɛ ( j ) a b a ʔ # i k ɛ o
+332	1010	kè(j)abaq_iekèo	kE(y)aba'_ikEo	k E ( y ) a b a ' _ i k E o	k ɛ ( j ) a b a ʔ _ i k ɛ o
 338	1013	kie(j)oenanĕ	ki(y)unanė	k i ( y ) u n a n ė	k i ( j ) u n a n ə
 339	1014	kie(j)oèroha	ki(y)uroha	k i ( y ) u r o h a	k i ( j ) u r o h a
 333	1015	kè(j)oha	kE(y)oha	k E ( y ) o h a	k ɛ ( j ) o h a
@@ -304,7 +339,7 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 372	1039	kiekoekoe(q)ĕ	kikuku(')ė	k i k u k u ( ' ) ė	k i k u k u ( ʔ ) ə
 408	1043	kokonienie	kokonini	k o k o n i n i	k o k o n i n i
 373	1054	kienanafĕ	kinanafė	k i n a n a f ė	k i n a n a f ə
-374	1062	kienono: è(j)ĕ	kinono: E(y)ė	k i n o n o : # E ( y ) ė	k i n o n o : # ɛ ( j ) ə
+374	1062	kienono:_è(j)ĕ	kinono:_E(y)ė	k i n o n o : _ E ( y ) ė	k i n o n o : _ ɛ ( j ) ə
 62	1063	è(j)adie(j)ĕ	E(y)adi(y)ė	E ( y ) a d i ( y ) ė	ɛ ( j ) a d i ( j ) ə
 375	1066	kienoqè(j)ĕ	kino'E(y)ė	k i n o ' E ( y ) ė	k i n o ʔ ɛ ( j ) ə
 378	1067	kieorèa	kiorEa	k i o r E a	k i o r ɛ a
@@ -313,15 +348,18 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 345	1077	kiefa(a)oeq	kifa(a)u'	k i f a ( a ) u '	k i f a ( a ) u ʔ
 379	1078	kiepadieoeièdjie	kipadiuiji	k i p a d i u i j i	k i p a d i u i d͡ʒ i
 352	1079	kiefahoe(w)a	kifahu(w)a	k i f a h u ( w ) a	k i f a h u ( w ) a
-353	1083	kiefakiefa fahoeoenaq	kifakifa fahu'una'	k i f a k i f a # f a h u ' u n a '	k i f a k i f a # f a h u ʔ u n a ʔ
+353	1083	kiefakiefa_fahoeoenaq	kifakifa_fahu'una'	k i f a k i f a _ f a h u ' u n a '	k i f a k i f a _ f a h u ʔ u n a ʔ
 380	1087	kiepakoekoe	kipakuku	k i p a k u k u	k i p a k u k u
 381	1088	kiepakoekoekie	kipakukuki	k i p a k u k u k i	k i p a k u k u k i
 354	1090	kiefamĕ	kifamė	k i f a m ė	k i f a m ə
 351	1092	kiefafakoe	kifafaku	k i f a f a k u	k i f a f a k u
 355	1093	kiefaqaq	kifa'a'	k i f a ' a '	k i f a ʔ a ʔ
 382	1094	kieparaèbahoe(q)	kiparaEbahu(')	k i p a r a E b a h u ( ' )	k i p a r a ɛ b a h u ( ʔ )
-383	1098	kieparaèdie(j)oq; kiefalaiedie(j)oq	kiparaEdi(y)o'; kifalaidi(y)o'	k i p a r a E d i ( y ) o ' ; # k i f a l a i d i ( y ) o '	k i p a r a ɛ d i ( j ) o ʔ ; # k i f a l a i d i ( j ) o ʔ
-357	1099	kiefĕhaie; kiepoehaie; kiefoehaie	kifėhai; kipuhai; kifuhai	k i f ė h a i ; # k i p u h a i ; # k i f u h a i	k i f ə h a i ; # k i p u h a i ; # k i f u h a i
+383	1098	kieparaèdie(j)oq	kiparaEdi(y)o'	k i p a r a E d i ( y ) o '	k i p a r a ɛ d i ( j ) o ʔ
+383	1098	kiefalaiedie(j)oq	kifalaidi(y)o'	k i f a l a i d i ( y ) o '	k i f a l a i d i ( j ) o ʔ
+357	1099	kiefĕhaie	kifėhai	k i f ė h a i	k i f ə h a i
+357	1099	kiepoehaie	kipuhai	k i p u h a i	k i p u h a i
+357	1099	kiefoehaie	kifuhai	k i f u h a i	k i f u h a i
 358	1101	kiefĕhodĕ	kifėhodė	k i f ė h o d ė	k i f ə h o d ə
 356	1102	kiefèoraq	kifEora'	k i f E o r a '	k i f ɛ o r a ʔ
 359	1103	kiefiefie	kififi	k i f i f i	k i f i f i
@@ -329,39 +367,52 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 385	1106	kiepoerieka	kipurika	k i p u r i k a	k i p u r i k a
 361	1107	kiefoefoe	kifufu	k i f u f u	k i f u f u
 362	1108	kiefoeoedĕ	kifu'udė	k i f u ' u d ė	k i f u ʔ u d ə
-360	1109	kiefoe(w)a; kiepö(w)a; kiefö(w)a	kifu(w)a; kipu̇(w)a; kifu̇(w)a	k i f u ( w ) a ; # k i p u̇ ( w ) a ; # k i f u̇ ( w ) a	k i f u ( w ) a ; # k i p ɨ ( w ) a ; # k i f ɨ ( w ) a
+360	1109	kiefoe(w)a	kifu(w)a	k i f u ( w ) a	k i f u ( w ) a
+360	1109	kiepö(w)a	kipu̇(w)a	k i p u̇ ( w ) a	k i p ɨ ( w ) a
+360	1109	kiefö(w)a	kifu̇(w)a	k i f u̇ ( w ) a	k i f ɨ ( w ) a
 364	1111	kiefokana	kifokana	k i f o k a n a	k i f o k a n a
 365	1112	kiefokiefo	kifokifo	k i f o k i f o	k i f o k i f o
 363	1114	kiefofoä	kifofo'a	k i f o f o ' a	k i f o f o ʔ a
 386	1116	kieqjĕ	ki'yė	k i ' y ė	k i ʔ j ə
 409	1117	koq(a)hajo	ko'(a)hayo	k o ' ( a ) h a y o	k o ʔ ( a ) h a j o
 393	1118	koahie(j)ĕ	koahi(y)ė	k o a h i ( y ) ė	k o a h i ( j ) ə
-394	1119	koahie(j)ĕ kafoe	koahi(y)ė kafu	k o a h i ( y ) ė # k a f u	k o a h i ( j ) ə # k a f u
+394	1119	koahie(j)ĕ_kafoe	koahi(y)ė_kafu	k o a h i ( y ) ė _ k a f u	k o a h i ( j ) ə _ k a f u
 395	1123	koeana	kuana	k u a n a	k u a n a
 286	1128	ietofo	itofo	i t o f o	i t o f o
-150	1130	èkoedodoka; koedoroka	Ekudodoka; kudoroka	E k u d o d o k a ; # k u d o r o k a	ɛ k u d o d o k a ; # k u d o r o k a
+150	1130	èkoedodoka	Ekudodoka	E k u d o d o k a	ɛ k u d o d o k a
+150	1130	koedoroka	kudoroka	k u d o r o k a	k u d o r o k a
 401	1131	koeroe	kuru	k u r u	k u r u
-404	1133	kohèdie; koehèlie; kohèlie	kohEdi; kuhEli; kohEli	k o h E d i ; # k u h E l i ; # k o h E l i	k o h ɛ d i ; # k u h ɛ l i ; # k o h ɛ l i
+404	1133	kohèdie	kohEdi	k o h E d i	k o h ɛ d i
+404	1133	koehèlie	kuhEli	k u h E l i	k u h ɛ l i
+404	1133	kohèlie	kohEli	k o h E l i	k o h ɛ l i
 396	1134	koehèlie(j)aq	kuhEli(y)a'	k u h E l i ( y ) a '	k u h ɛ l i ( j ) a ʔ
-397	1136	koeie kaliehĕ	kui kalihė	k u i # k a l i h ė	k u i # k a l i ç ə
-398	1138	koeienanaq; koienaq; koenènaq, koenanaq	kuinana'; koina'; kunEna', kunana'	k u i n a n a ' ; # k o i n a ' ; # k u n E n a ' , # k u n a n a '	k u i n a n a ʔ ; # k o i n a ʔ ; # k u n ɛ n a ʔ , # k u n a n a ʔ
+397	1136	koeie_kaliehĕ	kui_kalihė	k u i _ k a l i h ė	k u i _ k a l i ç ə
+398	1138	koeienanaq	kuinana'	k u i n a n a '	k u i n a n a ʔ
+398	1138	koienaq	koina'	k o i n a '	k o i n a ʔ
+398	1138	koenènaq,_koenanaq	kunEna',_kunana'	k u n E n a ' , _ k u n a n a '	k u n ɛ n a ʔ , _ k u n a n a ʔ
 400	1142	koemènoeĕ	kumEnuė	k u m E n u ė	k u m ɛ n u ə
 399	1146	koelipo	kulipo	k u l i p o	k u l i p o
 405	1150	kohofaie	kohofai	k o h o f a i	k o h o f a i
-406	1151	kohofie(j)ĕ; kopopoie(j)ĕ (?)	kohofi(y)ė; kopopoi(y)ė (?)	k o h o f i ( y ) ė ; # k o p o p o i ( y ) ė # ( ? )	k o h o f i ( j ) ə ; # k o p o p o i ( j ) ə # ( ? )
+406	1151	kohofie(j)ĕ	kohofi(y)ė	k o h o f i ( y ) ė	k o h o f i ( j ) ə
+406	1151	kopopoie(j)ĕ_(?)	kopopoi(y)ė_(?)	k o p o p o i ( y ) ė _ ( ? )	k o p o p o i ( j ) ə _ ( ? )
 407	1156	kokonĕ	kokonė	k o k o n ė	k o k o n ə
 402	1167	kofo	kofo	k o f o	k o f o
 403	1168	koforieqie	kofori'i	k o f o r i ' i	k o f o r i ʔ i
-299	1169	kadoqö (?)	kado'u̇ (?)	k a d o ' u̇ # ( ? )	k a d o ʔ ɨ # ( ? )
-418	1175	mohona(q); ahiemahona(q)	mohona('); ahimahona(')	m o h o n a ( ' ) ; # a h i m a h o n a ( ' )	m o h o n a ( ʔ ) ; # a h i m a h o n a ( ʔ )
+299	1169	kadoqö_(?)	kado'u̇_(?)	k a d o ' u̇ _ ( ? )	k a d o ʔ ɨ _ ( ? )
+418	1175	mohona(q)	mohona(')	m o h o n a ( ' )	m o h o n a ( ʔ )
+418	1175	ahiemahona(q)	ahimahona(')	a h i m a h o n a ( ' )	a h i m a h o n a ( ʔ )
 420	1177	monokie	monoki	m o n o k i	m o n o k i
 415	1180	mienaoe(w)afĕ	minau(w)afė	m i n a u ( w ) a f ė	m i n a u ( w ) a f ə
 414	1181	mienaoe(w)aè	minau(w)aE	m i n a u ( w ) a E	m i n a u ( w ) a ɛ
 417	1185	mohomohoienoe	mohomohoinu	m o h o m o h o i n u	m o h o m o h o i n u
 439	1186	omokie	omoki	o m o k i	o m o k i
-419	1188	moko èorie die(j)ĕ	moko Eori di(y)ė	m o k o # E o r i # d i ( y ) ė	m o k o # ɛ o r i # d i ( j ) ə
+419	1188	moko_èorie_die(j)ĕ	moko_Eori_di(y)ė	m o k o _ E o r i _ d i ( y ) ė	m o k o _ ɛ o r i _ d i ( j ) ə
 421	1191	naäfoe(w)aka(q)	na'afu(w)aka(')	n a ' a f u ( w ) a k a ( ' )	n a ʔ a f u ( w ) a k a ( ʔ )
-422	1192	naähapè; naäpè; naèhafè; noähafè; naäfè	na'ahapE; na'apE; naEhafE; no'ahafE; na'afE	n a ' a h a p E ; # n a ' a p E ; # n a E h a f E ; # n o ' a h a f E ; # n a ' a f E	n a ʔ a h a p ɛ ; # n a ʔ a p ɛ ; # n a ɛ h a f ɛ ; # n o ʔ a h a f ɛ ; # n a ʔ a f ɛ
+422	1192	naähapè	na'ahapE	n a ' a h a p E	n a ʔ a h a p ɛ
+422	1192	naäpè	na'apE	n a ' a p E	n a ʔ a p ɛ
+422	1192	naèhafè	naEhafE	n a E h a f E	n a ɛ h a f ɛ
+422	1192	noähafè	no'ahafE	n o ' a h a f E	n o ʔ a h a f ɛ
+422	1192	naäfè	na'afE	n a ' a f E	n a ʔ a f ɛ
 423	1196	nafonaq	nafona'	n a f o n a '	n a f o n a ʔ
 424	1199	nèènè	nEEnE	n E E n E	n ɛ ɛ n ɛ
 425	1201	nie(j)ĕ	ni(y)ė	n i ( y ) ė	n i ( j ) ə
@@ -382,19 +433,23 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 235	1246	faboedajaq	fabudaya'	f a b u d a y a '	f a b u d a j a ʔ
 236	1247	faböha	fabu̇ha	f a b u̇ h a	f a b ɨ h a
 237	1248	fadahèboe(w)ĕ	fadahEbu(w)ė	f a d a h E b u ( w ) ė	f a d a h ɛ b u ( w ) ə
-260	1250	fariehoie(j)aqä; faliehoie(j)aqä	farihoi(y)a'a; falihoi(y)a'a	f a r i h o i ( y ) a ' a ; # f a l i h o i ( y ) a ' a	f a r i ç o i ( j ) a ʔ a ; # f a l i ç o i ( j ) a ʔ a
+260	1250	fariehoie(j)aqä	farihoi(y)a'a	f a r i h o i ( y ) a ' a	f a r i ç o i ( j ) a ʔ a
+260	1250	faliehoie(j)aqä	falihoi(y)a'a	f a l i h o i ( y ) a ' a	f a l i ç o i ( j ) a ʔ a
 259	1251	fariehofie	farihofi	f a r i h o f i	f a r i ç o f i
 261	1252	fariekaä	farika'a	f a r i k a ' a	f a r i k a ʔ a
 443	1255	paèloha	paEloha	p a E l o h a	p a ɛ l o h a
 444	1260	pahabie(j)aq	pahabi(y)a'	p a h a b i ( y ) a '	p a h a b i ( j ) a ʔ
 233	1262	fa(ha)böhaq	fa(ha)bu̇ha'	f a ( h a ) b u̇ h a '	f a ( h a ) b ɨ h a ʔ
-241	1264	fahaloho; fahaloho èkiedjaie(j)oe	fahaloho; fahaloho Ekijai(y)u	f a h a l o h o ; # f a h a l o h o # E k i j a i ( y ) u	f a h a l o h o ; # f a h a l o h o # ɛ k i d͡ʒ a i ( j ) u
+241	1264	fahaloho	fahaloho	f a h a l o h o	f a h a l o h o
+241	1264	fahaloho_èkiedjaie(j)oe	fahaloho_Ekijai(y)u	f a h a l o h o _ E k i j a i ( y ) u	f a h a l o h o _ ɛ k i d͡ʒ a i ( j ) u
 445	1267	pahakie(j)o	pahaki(y)o	p a h a k i ( y ) o	p a h a k i ( j ) o
 240	1271	fahafoeè(q)	fahafuE(')	f a h a f u E ( ' )	f a h a f u ɛ ( ʔ )
 242	1272	fahjĕ	fahyė	f a h y ė	f a h j ə
 243	1274	fahoehoeroe	fahuhuru	f a h u h u r u	f a h u h u r u
 244	1279	faienènèaq	fainEnEa'	f a i n E n E a '	f a i n ɛ n ɛ a ʔ
-454	1280	pĕkahadè; pakahalè; pĕkahalè	pėkahadE; pakahalE; pėkahalE	p ė k a h a d E ; # p a k a h a l E ; # p ė k a h a l E	p ə k a h a d ɛ ; # p a k a h a l ɛ ; # p ə k a h a l ɛ
+454	1280	pĕkahadè	pėkahadE	p ė k a h a d E	p ə k a h a d ɛ
+454	1280	pakahalè	pakahalE	p a k a h a l E	p a k a h a l ɛ
+454	1280	pĕkahalè	pėkahalE	p ė k a h a l E	p ə k a h a l ɛ
 245	1281	fakahofĕ	fakahofė	f a k a h o f ė	f a k a h o f ə
 246	1283	fakarahaq	fakaraha'	f a k a r a h a '	f a k a r a h a ʔ
 247	1286	fakèrie(j)a	fakEri(y)a	f a k E r i ( y ) a	f a k ɛ r i ( j ) a
@@ -402,15 +457,17 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 249	1292	fakoehè	fakuhE	f a k u h E	f a k u h ɛ
 447	1293	pakoehè(j)aq	pakuhE(y)a'	p a k u h E ( y ) a '	p a k u h ɛ ( j ) a ʔ
 250	1294	fakoehö(j)aq	fakuhu̇(y)a'	f a k u h u̇ ( y ) a '	f a k u h ɨ ( j ) a ʔ
-336	1297	kèo pakoenaq aèkietaieboe	kEo pakuna' aEkitaibu	k E o # p a k u n a ' # a E k i t a i b u	k ɛ o # p a k u n a ʔ # a ɛ k i t a i b u
+336	1297	kèo_pakoenaq_aèkietaieboe	kEo_pakuna'_aEkitaibu	k E o _ p a k u n a ' _ a E k i t a i b u	k ɛ o _ p a k u n a ʔ _ a ɛ k i t a i b u
 448	1299	pakoeqäq	paku'a'	p a k u ' a '	p a k u ʔ a ʔ
 248	1300	fakoefèq	fakufE'	f a k u f E '	f a k u f ɛ ʔ
 449	1305	pamahaoma	pamahaoma	p a m a h a o m a	p a m a h a o m a
 284	1306	iepamahona	ipamahona	i p a m a h o n a	i p a m a h o n a
 252	1308	fana(h)	fana(h)	f a n a ( h )	f a n a ( h )
-253	1309	fanako; pĕnĕko; fĕnĕko	fanako; pėnėko; fėnėko	f a n a k o ; # p ė n ė k o ; # f ė n ė k o	f a n a k o ; # p ə n ə k o ; # f ə n ə k o
+253	1309	fanako	fanako	f a n a k o	f a n a k o
+253	1309	pĕnĕko	pėnėko	p ė n ė k o	p ə n ə k o
+253	1309	fĕnĕko	fėnėko	f ė n ė k o	f ə n ə k o
 254	1310	fanakonĕ	fanakonė	f a n a k o n ė	f a n a k o n ə
-331	1311	kè(j)abaq fanakonĕ	kE(y)aba' fanakonė	k E ( y ) a b a ' # f a n a k o n ė	k ɛ ( j ) a b a ʔ # f a n a k o n ə
+331	1311	kè(j)abaq_fanakonĕ	kE(y)aba'_fanakonė	k E ( y ) a b a ' _ f a n a k o n ė	k ɛ ( j ) a b a ʔ _ f a n a k o n ə
 255	1312	fanakonĕäq	fanakonė'a'	f a n a k o n ė ' a '	f a n a k o n ə ʔ a ʔ
 256	1313	fanaoe	fanau	f a n a u	f a n a u
 257	1315	fanè	fanE	f a n E	f a n ɛ
@@ -425,39 +482,46 @@ ID	FORM_ID	variant	variant_common_transcription	variant_common_segments	variant_
 262	1336	farieqö	fari'u̇	f a r i ' u̇	f a r i ʔ ɨ
 263	1337	faroefèie	farufEi	f a r u f E i	f a r u f ɛ i
 264	1340	faroriefo	farorifo	f a r o r i f o	f a r o r i f o
-453	1341	pèè; aboepè	pEE; abupE	p E E ; # a b u p E	p ɛ ɛ ; # a b u p ɛ
+453	1341	pèè	pEE	p E E	p ɛ ɛ
+453	1341	aboepè	abupE	a b u p E	a b u p ɛ
 265	1343	fè(j)aha	fE(y)aha	f E ( y ) a h a	f ɛ ( j ) a h a
-457	1346	pĕnjako; fènjako; fĕnjako	pėñako; fEñako; fėñako	p ė ñ a k o ; # f E ñ a k o ; # f ė ñ a k o	p ə ɲ a k o ; # f ɛ ɲ a k o ; # f ə ɲ a k o
+457	1346	pĕnjako	pėñako	p ė ñ a k o	p ə ɲ a k o
+457	1346	fènjako	fEñako	f E ñ a k o	f ɛ ɲ a k o
+457	1346	fĕnjako	fėñako	f ė ñ a k o	f ə ɲ a k o
 266	1347	fènohie(j)o	fEnohi(y)o	f E n o h i ( y ) o	f ɛ n o h i ( j ) o
 267	1348	fiehie	fihi	f i h i	f i ç i
 456	1353	pĕnahaäq	pėnaha'a'	p ė n a h a ' a '	p ə n a h a ʔ a ʔ
-459	1360	poepoeroe; foefoeroe	pupuru; fufuru	p u p u r u ; # f u f u r u	p u p u r u ; # f u f u r u
-458	1362	poelieho; foeliehĕ	puliho; fulihė	p u l i h o ; # f u l i h ė	p u l i ç o ; # f u l i ç ə
+459	1360	poepoeroe	pupuru	p u p u r u	p u p u r u
+459	1360	foefoeroe	fufuru	f u f u r u	f u f u r u
+458	1362	poelieho	puliho	p u l i h o	p u l i ç o
+458	1362	foeliehĕ	fulihė	f u l i h ė	f u l i ç ə
 268	1367	foforo	foforo	f o f o r o	f o f o r o
 461	1373	wakieförö	wakifu̇ru̇	w a k i f u̇ r u̇	w a k i f ɨ r ɨ
 3	1374	(è)kaèq	(E)kaE'	( E ) k a E '	( ɛ ) k a ɛ ʔ
-51	1375	aroe(w)a; adoe(w)ĕ	aru(w)a; adu(w)ė	a r u ( w ) a ; # a d u ( w ) ė	a r u ( w ) a ; # a d u ( w ) ə
+51	1375	aroe(w)a	aru(w)a	a r u ( w ) a	a r u ( w ) a
+51	1375	adoe(w)ĕ	adu(w)ė	a d u ( w ) ė	a d u ( w ) ə
 11	1377	a(o)fa	a(o)fa	a ( o ) f a	a ( o ) f a
-47	1378	arieba; aliebĕ	ariba; alibė	a r i b a ; # a l i b ė	a r i b a ; # a l i b ə
+47	1378	arieba	ariba	a r i b a	a r i b a
+47	1378	aliebĕ	alibė	a l i b ė	a l i b ə
 30	1379	akieakienĕ	akiakinė	a k i a k i n ė	a k i a k i n ə
-12	1383	a(o)fa hie a(o)fa	a(o)fa hi a(o)fa	a ( o ) f a # h i # a ( o ) f a	a ( o ) f a # h i # a ( o ) f a
+12	1383	a(o)fa_hie_a(o)fa	a(o)fa_hi_a(o)fa	a ( o ) f a _ h i _ a ( o ) f a	a ( o ) f a _ h i _ a ( o ) f a
 17	1384	abaiekaèq	abaikaE'	a b a i k a E '	a b a i k a ɛ ʔ
 346	1385	kiefa(a)oeq	kifa(a)u'	k i f a ( a ) u '	k i f a ( a ) u ʔ
-347	1386	kiefa(a)oeq hie (è)kaèq	kifa(a)u' hi (E)kaE'	k i f a ( a ) u ' # h i # ( E ) k a E '	k i f a ( a ) u ʔ # h i # ( ɛ ) k a ɛ ʔ
-348	1387	kiefa(a)oeq hie adoe(w)a	kifa(a)u' hi adu(w)a	k i f a ( a ) u ' # h i # a d u ( w ) a	k i f a ( a ) u ʔ # h i # a d u ( w ) a
-350	1388	kiefa(a)oeq hie aroe(w)a	kifa(a)u' hi aru(w)a	k i f a ( a ) u ' # h i # a r u ( w ) a	k i f a ( a ) u ʔ # h i # a r u ( w ) a
-349	1389	kiefa(a)oeq hie adoe(w)ĕ	kifa(a)u' hi adu(w)ė	k i f a ( a ) u ' # h i # a d u ( w ) ė	k i f a ( a ) u ʔ # h i # a d u ( w ) ə
-5	1390	(è)kaèq taka	(E)kaE' taka	( E ) k a E ' # t a k a	( ɛ ) k a ɛ ʔ # t a k a
-6	1391	(è)kaèq taka hie (è)kaèq	(E)kaE' taka hi (E)kaE'	( E ) k a E ' # t a k a # h i # ( E ) k a E '	( ɛ ) k a ɛ ʔ # t a k a # h i # ( ɛ ) k a ɛ ʔ
-1	1392	(è)kaeq taka hie kiefa(a)oeq	(E)kae' taka hi kifa(a)u'	( E ) k a e ' # t a k a # h i # k i f a ( a ) u '	( ɛ ) k a e ʔ # t a k a # h i # k i f a ( a ) u ʔ
-7	1393	(è)kaèq taka hie kiefa(a)oeq, hie (è)kaèq	(E)kaE' taka hi kifa(a)u', hi (E)kaE'	( E ) k a E ' # t a k a # h i # k i f a ( a ) u ' , # h i # ( E ) k a E '	( ɛ ) k a ɛ ʔ # t a k a # h i # k i f a ( a ) u ʔ , # h i # ( ɛ ) k a ɛ ʔ
-20	1397	adoe(w)a taka hie (è)kaèq	adu(w)a taka hi (E)kaE'	a d u ( w ) a # t a k a # h i # ( E ) k a E '	a d u ( w ) a # t a k a # h i # ( ɛ ) k a ɛ ʔ
-48	1398	aroe(w)a taka hie (è)kaèq	aru(w)a taka hi (E)kaE'	a r u ( w ) a # t a k a # h i # ( E ) k a E '	a r u ( w ) a # t a k a # h i # ( ɛ ) k a ɛ ʔ
-22	1399	adoe(w)ĕ taka hie (è)kaèq	adu(w)ė taka hi (E)kaE'	a d u ( w ) ė # t a k a # h i # ( E ) k a E '	a d u ( w ) ə # t a k a # h i # ( ɛ ) k a ɛ ʔ
-21	1400	adoe(w)a taka hie kiefa(a)oeq	adu(w)a taka hi kifa(a)u'	a d u ( w ) a # t a k a # h i # k i f a ( a ) u '	a d u ( w ) a # t a k a # h i # k i f a ( a ) u ʔ
-49	1401	aroe(w)a taka hie kiefa(a)oeq	aru(w)a taka hi kifa(a)u'	a r u ( w ) a # t a k a # h i # k i f a ( a ) u '	a r u ( w ) a # t a k a # h i # k i f a ( a ) u ʔ
-23	1402	adoe(w)ĕ taka hie kiefa(a)oeq	adu(w)ė taka hi kifa(a)u'	a d u ( w ) ė # t a k a # h i # k i f a ( a ) u '	a d u ( w ) ə # t a k a # h i # k i f a ( a ) u ʔ
-33	1404	akoloe taka hie kiefa(a)oeq	akolu taka hi kifa(a)u'	a k o l u # t a k a # h i # k i f a ( a ) u '	a k o l u # t a k a # h i # k i f a ( a ) u ʔ
-15	1407	a(o)pa taka hie kiefa(a)oeq	a(o)pa taka hi kifa(a)u'	a ( o ) p a # t a k a # h i # k i f a ( a ) u '	a ( o ) p a # t a k a # h i # k i f a ( a ) u ʔ
-13	1408	a(o)fa taka hie kiefa(a)oeq	a(o)fa taka hi kifa(a)u'	a ( o ) f a # t a k a # h i # k i f a ( a ) u '	a ( o ) f a # t a k a # h i # k i f a ( a ) u ʔ
-4	1414	(è)kaèq koedoroka	(E)kaE' kudoroka	( E ) k a E ' # k u d o r o k a	( ɛ ) k a ɛ ʔ # k u d o r o k a
+347	1386	kiefa(a)oeq_hie_(è)kaèq	kifa(a)u'_hi_(E)kaE'	k i f a ( a ) u ' _ h i _ ( E ) k a E '	k i f a ( a ) u ʔ _ h i _ ( ɛ ) k a ɛ ʔ
+348	1387	kiefa(a)oeq_hie_adoe(w)a	kifa(a)u'_hi_adu(w)a	k i f a ( a ) u ' _ h i _ a d u ( w ) a	k i f a ( a ) u ʔ _ h i _ a d u ( w ) a
+350	1388	kiefa(a)oeq_hie_aroe(w)a	kifa(a)u'_hi_aru(w)a	k i f a ( a ) u ' _ h i _ a r u ( w ) a	k i f a ( a ) u ʔ _ h i _ a r u ( w ) a
+349	1389	kiefa(a)oeq_hie_adoe(w)ĕ	kifa(a)u'_hi_adu(w)ė	k i f a ( a ) u ' _ h i _ a d u ( w ) ė	k i f a ( a ) u ʔ _ h i _ a d u ( w ) ə
+5	1390	(è)kaèq_taka	(E)kaE'_taka	( E ) k a E ' _ t a k a	( ɛ ) k a ɛ ʔ _ t a k a
+6	1391	(è)kaèq_taka_hie_(è)kaèq	(E)kaE'_taka_hi_(E)kaE'	( E ) k a E ' _ t a k a _ h i _ ( E ) k a E '	( ɛ ) k a ɛ ʔ _ t a k a _ h i _ ( ɛ ) k a ɛ ʔ
+1	1392	(è)kaeq_taka_hie_kiefa(a)oeq	(E)kae'_taka_hi_kifa(a)u'	( E ) k a e ' _ t a k a _ h i _ k i f a ( a ) u '	( ɛ ) k a e ʔ _ t a k a _ h i _ k i f a ( a ) u ʔ
+7	1393	(è)kaèq_taka_hie_kiefa(a)oeq,_hie_(è)kaèq	(E)kaE'_taka_hi_kifa(a)u',_hi_(E)kaE'	( E ) k a E ' _ t a k a _ h i _ k i f a ( a ) u ' , _ h i _ ( E ) k a E '	( ɛ ) k a ɛ ʔ _ t a k a _ h i _ k i f a ( a ) u ʔ , _ h i _ ( ɛ ) k a ɛ ʔ
+20	1397	adoe(w)a_taka_hie_(è)kaèq	adu(w)a_taka_hi_(E)kaE'	a d u ( w ) a _ t a k a _ h i _ ( E ) k a E '	a d u ( w ) a _ t a k a _ h i _ ( ɛ ) k a ɛ ʔ
+48	1398	aroe(w)a_taka_hie_(è)kaèq	aru(w)a_taka_hi_(E)kaE'	a r u ( w ) a _ t a k a _ h i _ ( E ) k a E '	a r u ( w ) a _ t a k a _ h i _ ( ɛ ) k a ɛ ʔ
+22	1399	adoe(w)ĕ_taka_hie_(è)kaèq	adu(w)ė_taka_hi_(E)kaE'	a d u ( w ) ė _ t a k a _ h i _ ( E ) k a E '	a d u ( w ) ə _ t a k a _ h i _ ( ɛ ) k a ɛ ʔ
+21	1400	adoe(w)a_taka_hie_kiefa(a)oeq	adu(w)a_taka_hi_kifa(a)u'	a d u ( w ) a _ t a k a _ h i _ k i f a ( a ) u '	a d u ( w ) a _ t a k a _ h i _ k i f a ( a ) u ʔ
+49	1401	aroe(w)a_taka_hie_kiefa(a)oeq	aru(w)a_taka_hi_kifa(a)u'	a r u ( w ) a _ t a k a _ h i _ k i f a ( a ) u '	a r u ( w ) a _ t a k a _ h i _ k i f a ( a ) u ʔ
+23	1402	adoe(w)ĕ_taka_hie_kiefa(a)oeq	adu(w)ė_taka_hi_kifa(a)u'	a d u ( w ) ė _ t a k a _ h i _ k i f a ( a ) u '	a d u ( w ) ə _ t a k a _ h i _ k i f a ( a ) u ʔ
+33	1404	akoloe_taka_hie_kiefa(a)oeq	akolu_taka_hi_kifa(a)u'	a k o l u _ t a k a _ h i _ k i f a ( a ) u '	a k o l u _ t a k a _ h i _ k i f a ( a ) u ʔ
+15	1407	a(o)pa_taka_hie_kiefa(a)oeq	a(o)pa_taka_hi_kifa(a)u'	a ( o ) p a _ t a k a _ h i _ k i f a ( a ) u '	a ( o ) p a _ t a k a _ h i _ k i f a ( a ) u ʔ
+13	1408	a(o)fa_taka_hie_kiefa(a)oeq	a(o)fa_taka_hi_kifa(a)u'	a ( o ) f a _ t a k a _ h i _ k i f a ( a ) u '	a ( o ) f a _ t a k a _ h i _ k i f a ( a ) u ʔ
+4	1414	(è)kaèq_koedoroka	(E)kaE'_kudoroka	( E ) k a E ' _ k u d o r o k a	( ɛ ) k a ɛ ʔ _ k u d o r o k a
