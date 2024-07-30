@@ -93,6 +93,8 @@ hform |>
   # join the Indonesian translation
   left_join(en_to_idn_via_deeplr) |> 
   select(ID, page, entry, dutch, english, indonesian, everything()) |> 
+  mutate(indonesian = str_replace_all(indonesian, '\\"(?!\\s)', '“'),
+         indonesian = str_replace_all(indonesian, '\\"(?=\\s)', '”')) |> 
   write_tsv("data/helfrich1916.tsv", na = "")
 
 # save the variant table
