@@ -47,7 +47,7 @@ helfrich_wl <- helfrich_wl |>
   mutate(variant_ID = if_else(!is.na(variant), row_number(variant), NA))
 
 # save the form table
-helfrich_wl |> 
+hform <- helfrich_wl |> 
   select(-matches("(variant$|variant_com|variant_ipa)")) |> 
   select(ID, page, entry, dutch, english, form, variant_ID, form_common_transcription, form_common_segments, form_ipa_segments, matches("crossref"), everything()) |> 
   # here we deal with issue #5 https://github.com/engganolang/helfrich-1916-wordlist/issues/5 for splitting multiple forms
@@ -84,7 +84,15 @@ helfrich_wl |>
   mutate(dutch = str_replace_all(dutch, "([,;:?!])", " \\1 "),
          english = str_replace_all(english, "([,;:?!])", " \\1 "),
          dutch = str_replace_all(dutch, "\\s{2,}", " "),
-         english = str_replace_all(english, "\\s{2,}", " ")) |> 
+         english = str_replace_all(english, "\\s{2,}", " "))
+
+# read the Indonesian translation from the English one done via deeplr package processed in the `helfrich-1916-translation.R` code first.
+en_to_idn_via_deeplr <- read_rds("en_to_idn_via_deeplr.rds")
+
+hform |> 
+  # join the Indonesian translation
+  left_join(en_to_idn_via_deeplr) |> 
+  select(ID, page, entry, dutch, english, indonesian, everything()) |> 
   write_tsv("data/helfrich1916.tsv", na = "")
 
 # save the variant table
