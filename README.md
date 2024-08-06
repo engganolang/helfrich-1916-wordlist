@@ -14,9 +14,14 @@ materials in this repository are licensed under a
 Commons Attribution-NonCommercial-ShareAlike 4.0 International
 License</a>. <!-- badges: end -->
 
-This repository tracks the R codes to process the transcribed word list
-in Helfrich’s ([1916](#ref-Helfrich_1916)) paper. The word list will be
-made available when it is ready.
+This repository tracks the R codes to process the hand-transcribed word
+list in Helfrich’s ([1916](#ref-Helfrich_1916)) paper.
+
+The word list is now searchable from [this
+repository](https://github.com/engganolang/helfrich-1916-wordlist/blob/main/data/helfrich1916.tsv)
+as a tab-separated plain texts. Further imporvement and work-in-progress
+are recorded as
+[issues](https://github.com/engganolang/helfrich-1916-wordlist/issues).
 
 ## References
 
